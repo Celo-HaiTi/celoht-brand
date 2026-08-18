@@ -1,6 +1,6 @@
 # Contributing to the CeloHT Brand Repository
 
-Thank you for helping build CeloHT's visual identity. This repository is community-governed — no single person, including the founder, unilaterally decides what CeloHT looks like. Changes are made through discussion, review, and consensus.
+Thank you for helping build CeloHT's visual identity. This repository is community-governed - no single person, including the founder, unilaterally decides what CeloHT looks like. Changes are made through discussion, review, and consensus.
 
 ## What You Can Contribute
 
@@ -22,7 +22,7 @@ These require sign-off from at least two community maintainers, because they aff
 ## How to Propose a Change
 
 1. Open an issue describing what you want to add or change and why.
-2. For visual assets, include a preview (image or link) — not just a description.
+2. For visual assets, include a preview (image or link) - not just a description.
 3. Wait for at least one maintainer response before submitting a pull request; this avoids duplicated work.
 4. Submit a pull request referencing the issue.
 5. A maintainer will review against the standards in [BRAND_GUIDE.md](./BRAND_GUIDE.md).
@@ -31,7 +31,7 @@ These require sign-off from at least two community maintainers, because they aff
 
 Every new brand document must:
 
-- Be complete — no "TODO" sections or placeholder text
+- Be complete - no "TODO" sections or placeholder text
 - Include concrete examples, not just abstract rules
 - Be usable by someone with no prior design background
 - Follow the existing file naming and structure conventions

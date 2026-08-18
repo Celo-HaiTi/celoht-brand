@@ -1,6 +1,6 @@
 # CeloHT Color System
 
-CeloHT's palette is built from the official logo: **navy blue**, **gold/amber**, and **bright yellow**. These colors were chosen because they read as trustworthy and financial (navy), optimistic and energetic (gold), and warm and Haitian (yellow — echoing the Haitian flag's use of color and the warmth of the sun). Every color below has been checked for accessibility.
+CeloHT's palette is built from the official logo: **navy blue**, **gold/amber**, and **bright yellow**. These colors were chosen because they read as trustworthy and financial (navy), optimistic and energetic (gold), and warm and Haitian (yellow - echoing the Haitian flag's use of color and the warmth of the sun). Every color below has been checked for accessibility.
 
 ---
 
@@ -25,7 +25,7 @@ CeloHT's palette is built from the official logo: **navy blue**, **gold/amber**,
 - RGB: `252, 233, 79`
 - HSL: `55°, 96%, 65%`
 - CMYK: `0, 8, 69, 1`
-- Usage: logo background field, section highlights, sparingly as a background — not for body text areas
+- Usage: logo background field, section highlights, sparingly as a background - not for body text areas
 
 ---
 
@@ -82,8 +82,8 @@ All primary color pairings meet **WCAG 2.2 AA** at minimum for normal text (4.5:
 | Slate `#4A5568` | Off-White `#FAF9F6` | 7.4:1 | AAA |
 
 **Rules:**
-- Never place CeloHT Gold text directly on CeloHT Yellow — contrast fails (1.4:1). Use Navy on Yellow, or Gold on Navy instead.
-- Never rely on color alone to convey meaning (e.g. success/error states) — always pair with an icon or text label for color-blind and screen-reader users.
+- Never place CeloHT Gold text directly on CeloHT Yellow - contrast fails (1.4:1). Use Navy on Yellow, or Gold on Navy instead.
+- Never rely on color alone to convey meaning (e.g. success/error states) - always pair with an icon or text label for color-blind and screen-reader users.
 - All functional colors (success, warning, error, info) have been tested against both protanopia and deuteranopia simulations and remain distinguishable when paired with distinct icons.
 
 ---
@@ -94,7 +94,7 @@ All primary color pairings meet **WCAG 2.2 AA** at minimum for normal text (4.5:
 - **30%** CeloHT Navy (text, structure, primary UI elements)
 - **10%** CeloHT Gold / Yellow (accents, highlights, calls-to-action)
 
-CeloHT Yellow as a full background (like the logo) should be reserved for brand moments — logo lockups, social avatars, event banners — not general UI backgrounds, where it can overwhelm readability at scale.
+CeloHT Yellow as a full background (like the logo) should be reserved for brand moments - logo lockups, social avatars, event banners - not general UI backgrounds, where it can overwhelm readability at scale.
 
 ---
 
@@ -105,7 +105,7 @@ CeloHT Yellow as a full background (like the logo) should be reserved for brand 
 | Background | `#FAF9F6` | `#101A30` |
 | Surface | `#FFFFFF` | `#1B2A4A` |
 | Primary text | `#1A1A1A` | `#F5F5F5` |
-| Accent | `#F5A623` | `#F5A623` (unchanged — passes AA on both) |
+| Accent | `#F5A623` | `#F5A623` (unchanged - passes AA on both) |
 
 ---
 

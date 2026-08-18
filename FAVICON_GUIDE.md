@@ -2,7 +2,7 @@
 
 ## Source File
 
-All favicons are generated from `logos/favicons/celoht-favicon-source.svg` — a simplified, high-contrast version of the icon mark, optimized for legibility at very small sizes (the bar-chart arrow is thickened and the clear space is minimized).
+All favicons are generated from `logos/favicons/celoht-favicon-source.svg` - a simplified, high-contrast version of the icon mark, optimized for legibility at very small sizes (the bar-chart arrow is thickened and the clear space is minimized).
 
 ## Required Sizes
 
@@ -34,7 +34,7 @@ resvg logos/favicons/celoht-favicon-source.svg mstile-150x150.png -w 150 -h 150
 convert favicon-16x16.png favicon-32x32.png favicon.ico
 ```
 
-> Any equivalent tool works — Inkscape CLI, `sharp` (Node.js), Pillow (Python via `cairosvg`), or a browser-based favicon generator fed the source SVG. The critical rule is: **always generate from `celoht-favicon-source.svg`**, never from the full horizontal or vertical lockup, which will not read clearly at 16×16.
+> Any equivalent tool works - Inkscape CLI, `sharp` (Node.js), Pillow (Python via `cairosvg`), or a browser-based favicon generator fed the source SVG. The critical rule is: **always generate from `celoht-favicon-source.svg`**, never from the full horizontal or vertical lockup, which will not read clearly at 16×16.
 
 ## HTML Implementation
 

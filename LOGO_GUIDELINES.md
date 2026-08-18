@@ -2,12 +2,12 @@
 
 ## The Mark
 
-The CeloHT logo is a navy "C" (for CeloHT / Celo) enclosing a gold growth-arrow drawn as a rising bar chart line, set on a signature bright yellow field. The "C" shape doubles as a nod to Celo's own visual language, while the arrow communicates growth, progress, and financial empowerment — the core promise of financial inclusion.
+The CeloHT logo is a navy "C" (for CeloHT / Celo) enclosing a gold growth-arrow drawn as a rising bar chart line, set on a signature bright yellow field. The "C" shape doubles as a nod to Celo's own visual language, while the arrow communicates growth, progress, and financial empowerment - the core promise of financial inclusion.
 
 **Symbolism:**
-- **Navy C** — stability, trust, structure
-- **Gold arrow / bar chart** — growth, opportunity, upward mobility
-- **Yellow field** — warmth, optimism, energy, and a visual link to sunlight and the Haitian context
+- **Navy C** - stability, trust, structure
+- **Gold arrow / bar chart** - growth, opportunity, upward mobility
+- **Yellow field** - warmth, optimism, energy, and a visual link to sunlight and the Haitian context
 
 ---
 
@@ -15,7 +15,7 @@ The CeloHT logo is a navy "C" (for CeloHT / Celo) enclosing a gold growth-arrow 
 
 | Variant | When to use |
 |---|---|
-| **Primary (full color, yellow field)** | Default. Use whenever background flexibility allows — social avatars, favicons, merchandise, app icons |
+| **Primary (full color, yellow field)** | Default. Use whenever background flexibility allows - social avatars, favicons, merchandise, app icons |
 | **Horizontal lockup** | Website headers, email signatures, wide banners |
 | **Vertical lockup** | Square social posts, posters, mobile-first layouts |
 | **Icon only** | App icons, favicons, small UI spaces under 32px |
@@ -52,8 +52,8 @@ Maintain minimum clear space around the logo equal to **the height of the "C" st
 ❌ Don't recolor the logo outside the approved palette
 ❌ Don't stretch, skew, rotate, or distort the mark
 ❌ Don't add drop shadows, outlines, bevels, or other effects not in the original
-❌ Don't place the full-color logo on low-contrast or busy backgrounds — use monochrome instead
-❌ Don't recreate or trace the logo by hand — always use official source files
+❌ Don't place the full-color logo on low-contrast or busy backgrounds - use monochrome instead
+❌ Don't recreate or trace the logo by hand - always use official source files
 ❌ Don't combine the CeloHT logo with the Celo Foundation or Valora logos in a way that implies partnership or affiliation
 ❌ Don't use the logo to suggest CeloHT is a cryptocurrency, token, or financial product for investment
 

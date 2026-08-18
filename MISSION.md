@@ -5,17 +5,17 @@
 ## How We Pursue This Mission
 
 ### 1. Education
-We teach Web3 and financial literacy concepts primarily in Haitian Creole, built for people with no prior technical or financial background. Education is not a marketing funnel — it is a permanent pillar, resourced and maintained independent of any product cycle.
+We teach Web3 and financial literacy concepts primarily in Haitian Creole, built for people with no prior technical or financial background. Education is not a marketing funnel - it is a permanent pillar, resourced and maintained independent of any product cycle.
 
 ### 2. Agent Network
-Technology alone does not build trust. The Agent Network trains and supports local people who act as a human bridge between communities and digital financial tools — answering questions, providing hands-on help, and grounding CeloHT in real relationships rather than only an app.
+Technology alone does not build trust. The Agent Network trains and supports local people who act as a human bridge between communities and digital financial tools - answering questions, providing hands-on help, and grounding CeloHT in real relationships rather than only an app.
 
 ### 3. Reforestation
-Sustainable development means the communities CeloHT serves are not left worse off environmentally in exchange for financial progress. Reforestation is a permanent, resourced pillar — not an offset or a PR gesture.
+Sustainable development means the communities CeloHT serves are not left worse off environmentally in exchange for financial progress. Reforestation is a permanent, resourced pillar - not an offset or a PR gesture.
 
 ## No Token Policy
 
-CeloHT has no native token, no ICO, no presale, no staking token, no speculation model, and no investment promises. The ecosystem runs entirely on existing Celo network assets — cUSD for payments, CELO for gas only.
+CeloHT has no native token, no ICO, no presale, no staking token, no speculation model, and no investment promises. The ecosystem runs entirely on existing Celo network assets, with USDm for payments and CELO for gas only.
 
 ## Operating Principles
 

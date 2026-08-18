@@ -4,10 +4,10 @@
 
 CeloHT's voice is:
 
-- **Clear, not clever** — we write for someone accessing financial tools for the first time, not for crypto insiders. If a sentence needs a glossary, rewrite it.
-- **Warm, not corporate** — we're a community initiative, not a company selling a product.
-- **Confident, not hyped** — we describe real impact and real tools. We never promise returns, gains, or guaranteed outcomes.
-- **Respectful of language** — Haitian Creole is treated as a primary language, not a translation afterthought. Content should be written natively in Creole where possible, not machine-translated from English.
+- **Clear, not clever** - we write for someone accessing financial tools for the first time, not for crypto insiders. If a sentence needs a glossary, rewrite it.
+- **Warm, not corporate** - we're a community initiative, not a company selling a product.
+- **Confident, not hyped** - we describe real impact and real tools. We never promise returns, gains, or guaranteed outcomes.
+- **Respectful of language** - Haitian Creole is treated as a primary language, not a translation afterthought. Content should be written natively in Creole where possible, not machine-translated from English.
 
 ## Tone (adapts by context)
 
@@ -36,7 +36,7 @@ CeloHT's voice is:
 > "CeloHT te kreye pou ede kominote yo aprann ak itilize zouti finansye dijital yo, ansanm." *(CeloHT was created to help communities learn and use digital financial tools, together.)*
 
 **Off-brand:**
-> "Join CeloHT and start earning returns on the Celo blockchain today!" — implies investment returns and overstates affiliation; never use this framing.
+> "Join CeloHT and start earning returns on the Celo blockchain today!" - implies investment returns and overstates affiliation; never use this framing.
 
 ## Non-Affiliation Language (required)
 

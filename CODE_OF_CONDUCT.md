@@ -13,7 +13,7 @@ Examples of behavior that contributes to a positive environment:
 - Gracefully accepting constructive criticism
 - Focusing on what is best for the community
 - Showing empathy toward other community members
-- Being patient with contributors who are learning — many CeloHT contributors are new to open source
+- Being patient with contributors who are learning - many CeloHT contributors are new to open source
 
 Examples of unacceptable behavior:
 
@@ -37,10 +37,10 @@ Instances of abusive, harassing, or otherwise unacceptable behavior may be repor
 
 ### Enforcement Guidelines
 
-1. **Correction** — Private, written warning, with clarity around the violation.
-2. **Warning** — A warning with consequences for continued behavior, including temporary restriction from interaction.
-3. **Temporary Ban** — A temporary ban from any sort of interaction or public communication with the community.
-4. **Permanent Ban** — A permanent ban from any sort of public interaction within the community.
+1. **Correction** - Private, written warning, with clarity around the violation.
+2. **Warning** - A warning with consequences for continued behavior, including temporary restriction from interaction.
+3. **Temporary Ban** - A temporary ban from any sort of interaction or public communication with the community.
+4. **Permanent Ban** - A permanent ban from any sort of public interaction within the community.
 
 ## Attribution
 

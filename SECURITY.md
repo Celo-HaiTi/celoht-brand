@@ -1,4 +1,4 @@
-# Security Policy — CeloHT Brand Repository
+# Security Policy - CeloHT Brand Repository
 
 ## Scope
 
@@ -21,7 +21,7 @@ We will acknowledge reports within 5 business days and provide a resolution time
 
 ## Brand Misuse Is a Security Issue
 
-Because CeloHT operates in the financial inclusion space, fraudulent use of the CeloHT name or logo (for example, to promote a fake token or phishing site) is treated as a **security priority**, not just a trademark matter. If you see CeloHT branding used to solicit funds, promote a token, or imply investment returns, report it immediately — this directly contradicts CeloHT's non-affiliation and non-investment status (see [BRAND_GUIDE.md](./BRAND_GUIDE.md)).
+Because CeloHT operates in the financial inclusion space, fraudulent use of the CeloHT name or logo (for example, to promote a fake token or phishing site) is treated as a **security priority**, not just a trademark matter. If you see CeloHT branding used to solicit funds, promote a token, or imply investment returns, report it immediately - this directly contradicts CeloHT's non-affiliation and non-investment status (see [BRAND_GUIDE.md](./BRAND_GUIDE.md)).
 
 ## Supported Versions
 

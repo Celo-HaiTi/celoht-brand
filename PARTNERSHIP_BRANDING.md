@@ -4,7 +4,7 @@ For NGOs, universities, government bodies, and organizations (e.g. FreClean) col
 
 ## Co-Branding Principles
 
-1. **Equal visual weight, clear separation.** Partner logos are placed alongside — never inside, merged with, or overlapping — the CeloHT logo.
+1. **Equal visual weight, clear separation.** Partner logos are placed alongside - never inside, merged with, or overlapping - the CeloHT logo.
 2. **Clear space is non-negotiable.** Maintain full clear space (see [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md)) around the CeloHT mark even in co-branded layouts.
 3. **No implied ownership.** Co-branding indicates collaboration on a specific initiative, not organizational merger, ownership, or exclusive partnership unless explicitly agreed in writing.
 
@@ -14,7 +14,7 @@ For NGOs, universities, government bodies, and organizations (e.g. FreClean) col
 [ CeloHT logo ]     ×     [ Partner logo ]
 ```
 
-Separator: a thin vertical rule or "×" symbol in Neutral-300 `#D4D4D4`, centered between logos, both logos vertically centered and sized to equal visual weight (not necessarily identical pixel height — optically balanced).
+Separator: a thin vertical rule or "×" symbol in Neutral-300 `#D4D4D4`, centered between logos, both logos vertically centered and sized to equal visual weight (not necessarily identical pixel height - optically balanced).
 
 ## What Partners May Say
 
@@ -24,7 +24,7 @@ Separator: a thin vertical rule or "×" symbol in Neutral-300 `#D4D4D4`, centere
 
 ## What Partners May Not Say
 
-❌ "Official CeloHT partner" (implies formal status not granted by default — requires written agreement)
+❌ "Official CeloHT partner" (implies formal status not granted by default - requires written agreement)
 ❌ Anything implying CeloHT is a product or service the partner sells, resells, or profits from directly
 ❌ Anything implying investment, returns, or token association
 
@@ -38,7 +38,7 @@ All co-branded materials (joint press releases, event banners, joint social post
 
 ## Government & NGO Materials
 
-Materials intended for government or NGO partnership contexts must include the full non-affiliation disclaimer (see [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md#required-disclaimer)) in visible, non-footnote text — these audiences require unambiguous clarity on CeloHT's independence and no-token status before any formal engagement.
+Materials intended for government or NGO partnership contexts must include the full non-affiliation disclaimer (see [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md#required-disclaimer)) in visible, non-footnote text - these audiences require unambiguous clarity on CeloHT's independence and no-token status before any formal engagement.
 
 ## Event Co-Branding (Hackathons, Conferences)
 

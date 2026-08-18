@@ -2,16 +2,16 @@
 
 ## Font Families
 
-### Primary — Headings: **Fraunces**
-A warm, humanist serif with character — used for headlines, section titles, and brand moments. Conveys trust and craft without feeling corporate or cold. Free and open source (SIL Open Font License), available via Google Fonts.
+### Primary - Headings: **Fraunces**
+A warm, humanist serif with character - used for headlines, section titles, and brand moments. Conveys trust and craft without feeling corporate or cold. Free and open source (SIL Open Font License), available via Google Fonts.
 
-### Secondary — Body & UI: **IBM Plex Sans**
+### Secondary - Body & UI: **IBM Plex Sans**
 Highly legible at small sizes, supports an exceptionally wide range of Latin characters (important for French and Haitian Creole diacritics), and is free/open source (SIL OFL). Used for body copy, UI labels, navigation, and documentation.
 
-### Monospace — Code: **IBM Plex Mono**
+### Monospace - Code: **IBM Plex Mono**
 Used in documentation, code samples, and technical specs. Pairs naturally with IBM Plex Sans.
 
-> Both families are 100% free, open source, and self-hostable — critical for a low-bandwidth, accessibility-first audience. Never substitute proprietary fonts that require licensing fees.
+> Both families are 100% free, open source, and self-hostable - critical for a low-bandwidth, accessibility-first audience. Never substitute proprietary fonts that require licensing fees.
 
 ---
 
@@ -46,7 +46,7 @@ Used in documentation, code samples, and technical specs. Pairs naturally with I
 > `h1` "Financial inclusion, built with community" set in Fraunces 600, Navy `#1B2A4A`, followed by `body-lg` in Plex Sans 400, Slate `#4A5568`.
 
 **Incorrect:**
-> Setting entire paragraphs in Fraunces (serif body text at length reduces legibility for low-literacy and screen-reader-assisted readers — Fraunces is for headlines only).
+> Setting entire paragraphs in Fraunces (serif body text at length reduces legibility for low-literacy and screen-reader-assisted readers - Fraunces is for headlines only).
 
 ---
 
@@ -55,15 +55,15 @@ Used in documentation, code samples, and technical specs. Pairs naturally with I
 CeloHT content is frequently published in **Haitian Creole**, French, and English. Requirements:
 
 - Fonts must support full Latin Extended character sets (both Plex Sans and Fraunces do)
-- Avoid all-caps for Haitian Creole body text — diacritics and accented characters can be visually distorted in some all-caps renderings
+- Avoid all-caps for Haitian Creole body text - diacritics and accented characters can be visually distorted in some all-caps renderings
 - Line height of at least 1.5 for body text to support readers using screen magnification or lower literacy reading pace
 
 ---
 
 ## Accessibility
 
-- Minimum body text size: 16px (1rem) — never smaller for primary reading content
-- Minimum contrast: see [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) — all text/background pairings must meet WCAG 2.2 AA at minimum
+- Minimum body text size: 16px (1rem) - never smaller for primary reading content
+- Minimum contrast: see [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) - all text/background pairings must meet WCAG 2.2 AA at minimum
 - Never use font weight or color alone to indicate interactivity (links must be underlined or otherwise distinguished beyond color)
 - Support browser/OS-level text resizing up to 200% without breaking layout
 
