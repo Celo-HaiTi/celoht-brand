@@ -8,13 +8,13 @@ Official reference document for journalists, investors, donors, foundations, gov
 
 ## Cover Page
 
-**Organization:** CeloHT (Celo-HT)
+**Organization:** CeloHT
 **Tagline:** TBD
 **Headquarters:** Léogâne, Haiti
 **Built on:** Celo blockchain
 **Website:** [celoht.com](https://celoht.com)
-**GitHub Organization:** [github.com/Celo-HT](https://github.com/Celo-HT)
-**Primary Repository:** [github.com/Celo-HT/CeloHT](https://github.com/Celo-HT/CeloHT)
+**GitHub Organization:** [github.com/Celo-HaiTi](https://github.com/Celo-HaiTi)
+**Primary Repository:** [github.com/Celo-HaiTi/celoht-brand](https://github.com/Celo-HaiTi/celoht-brand)
 **Contact:** contact@celoht.com
 **Document Version:** 1.0
 **Last Updated:** TBD (date of publication)
@@ -74,15 +74,15 @@ CeloHT's work is organized around a four-phase roadmap running from 2026 through
 
 ## About CeloHT
 
-CeloHT (also written Celo-HT) is a community-governed Web3 initiative built on the Celo blockchain. It is headquartered in Léogâne, Haiti, and organizes its work around three interconnected pillars:
+CeloHT is a community-governed Web3 initiative built on the Celo blockchain. It is headquartered in Léogâne, Haiti, and organizes its work around three interconnected pillars:
 
 - **Education** - blockchain and digital-literacy education designed for local context and accessibility.
 - **Agent Network** - a human network enabling cash-to-USDm conversion, wallet onboarding, and community liquidity, extending financial access to people without traditional banking infrastructure.
 - **Reforestation** - an environmental sustainability program, currently in its design and pilot phase.
 
-CeloHT operates on the Celo blockchain using the USDm stablecoin and the CELO asset, with wallet access supported exclusively through Valora. CeloHT does not use or endorse MiniPay or any wallet other than Valora at this time.
+This repository is the brand and identity asset package for CeloHT. It does not implement wallet, dApp, smart-contract, or payment-product functionality. Any wallet or product support status belongs in the application repositories under the Celo-HaiTi organization.
 
-CeloHT is released under the Apache 2.0 license, and its work - including its documentation, brand assets, and codebase - is maintained publicly on GitHub.
+CeloHT is released under the MIT license for documentation and source files in this repository, with separate trademark rules for logo and brand marks.
 
 **CeloHT is not a cryptocurrency investment project.** It does not issue a native token, does not run token sales, and does not offer staking or speculative financial products. Its purpose is financial inclusion, education, and environmental impact, built using existing, established blockchain infrastructure.
 
@@ -127,7 +127,7 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 
 | Attribute | Detail |
 |---|---|
-| Legal / Operating Name | CeloHT (Celo-HT) |
+| Legal / Operating Name | CeloHT |
 | Headquarters | Léogâne, Haiti |
 | Founder | Johnny Dubic |
 | Founded | TBD (year to be confirmed against LEGAL_STATUS.md) |
@@ -135,13 +135,13 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 | Blockchain | Celo |
 | Primary Assets Used | USDm, CELO |
 | Native Token | None (see No Token Policy) |
-| Supported Wallet | Valora only |
-| License | Apache 2.0 |
+| Wallet Support | Product wallet support is NOT CONFIGURED in this repository; wallet functionality belongs in the application repos |
+| License | MIT for docs/source in this repository; trademark rules apply to CeloHT marks |
 | Governance Model | Foundation Director → Maintainer Council → Community Contributors |
 | Core Pillars | Education, Agent Network, Reforestation |
 | Current Roadmap Phase | Phase 1: Foundation (2026 Q2–Q3) - completed |
 | Website | celoht.com |
-| GitHub Organization | github.com/Celo-HT |
+| GitHub Organization | github.com/Celo-HaiTi |
 | Primary Contact | contact@celoht.com |
 
 ---
@@ -333,7 +333,7 @@ No. CeloHT has no native token, has never run an ICO or presale, and does not of
 CeloHT is built on the Celo blockchain, using the USDm stablecoin and CELO asset.
 
 **What wallet does CeloHT support?**
-Valora is currently the only supported wallet. MiniPay is not used or endorsed at this time.
+Wallet support is not implemented in this repository. This repo is limited to brand and documentation assets; any wallet compatibility status must be verified in the product/application repositories under the Celo-HaiTi organization.
 
 **Who governs CeloHT?**
 Governance flows through a Foundation Director, a Maintainer Council, and Community Contributors. CeloHT is community-governed, not founder-controlled.
@@ -348,7 +348,7 @@ Through Celo ecosystem grants, strategic partnerships, and GitHub Sponsors. Long
 Apache 2.0.
 
 **Where can I find CeloHT's official documentation?**
-At github.com/Celo-HT/CeloHT and celoht.com.
+At github.com/Celo-HaiTi/celoht-brand and celoht.com.
 
 **Who is FreClean?**
 A separate, planned formal partner focused on local entrepreneurship and cleaning services. Partnership details are still being finalized.
@@ -375,7 +375,7 @@ For detailed press-specific procedures, interview scheduling, and journalist gui
 |---|---|
 | Facebook | @CeloHT |
 | Instagram | @celohtofficial |
-| GitHub | github.com/Celo-HT |
+| GitHub | github.com/Celo-HaiTi |
 | Website | celoht.com |
 
 ---
@@ -467,7 +467,7 @@ CeloHT is not a financial institution, investment adviser, or securities issuer.
 
 ## Appendix
 
-**Note on data completeness:** This Media Kit has been prepared for accuracy and consistency with CeloHT's official documentation set. Fields marked TBD indicate information not yet confirmed at the time of this document's preparation and should be finalized against the live CeloHT repositories (github.com/Celo-HT) and official channels before final publication or distribution.
+**Note on data completeness:** This Media Kit has been prepared for accuracy and consistency with CeloHT's official documentation set. Fields marked TBD indicate information not yet confirmed at the time of this document's preparation and should be finalized against the live CeloHT repositories under the Celo-HaiTi organization and official channels before final publication or distribution.
 
 **Companion document:** This Media Kit is designed to be used alongside PRESS_KIT.md, which provides media-specific resources (press release template, quotes, photo assets, and journalist guidelines) without duplicating the organizational, brand, and governance detail provided here.
 
