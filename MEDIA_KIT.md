@@ -82,7 +82,7 @@ CeloHT is a community-governed Web3 initiative built on the Celo blockchain. It 
 
 This repository is the brand and identity asset package for CeloHT. It does not implement wallet, dApp, smart-contract, or payment-product functionality. Any wallet or product support status belongs in the application repositories under the Celo-HaiTi organization.
 
-CeloHT is released under the MIT license for documentation and source files in this repository, with separate trademark rules for logo and brand marks.
+CeloHT is released under the Apache 2.0 license for documentation and source files in this repository, with separate trademark rules for logo and brand marks.
 
 **CeloHT is not a cryptocurrency investment project.** It does not issue a native token, does not run token sales, and does not offer staking or speculative financial products. Its purpose is financial inclusion, education, and environmental impact, built using existing, established blockchain infrastructure.
 
@@ -136,7 +136,7 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 | Primary Assets Used | USDm, CELO |
 | Native Token | None (see No Token Policy) |
 | Wallet Support | Product wallet support is NOT CONFIGURED in this repository; wallet functionality belongs in the application repos |
-| License | MIT for docs/source in this repository; trademark rules apply to CeloHT marks |
+| License | Apache 2.0 for docs/source in this repository; trademark rules apply to CeloHT marks |
 | Governance Model | Foundation Director → Maintainer Council → Community Contributors |
 | Core Pillars | Education, Agent Network, Reforestation |
 | Current Roadmap Phase | Phase 1: Foundation (2026 Q2–Q3) - completed |

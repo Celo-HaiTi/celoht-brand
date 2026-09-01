@@ -94,7 +94,7 @@ Media Contact
 | Assets used | USDm, CELO |
 | Native token | None |
 | Wallet support | NOT CONFIGURED in this repository; wallet functionality belongs in product/application repos |
-| License | MIT for docs/source in this repository; trademark rules apply to CeloHT marks |
+| License | Apache 2.0 for docs/source in this repository; trademark rules apply to CeloHT marks |
 | Core pillars | Education, Agent Network, Reforestation |
 | Governance | Foundation Director → Maintainer Council → Community Contributors |
 | Current roadmap phase | Phase 1: Foundation (2026 Q2–Q3) - completed |
