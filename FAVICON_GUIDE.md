@@ -2,7 +2,7 @@
 
 ## Source File
 
-All favicons are generated from `logos/favicons/celoht-favicon-source.svg` - a simplified, high-contrast version of the icon mark, optimized for legibility at very small sizes (the bar-chart arrow is thickened and the clear space is minimized).
+All favicons are generated from `celoht-favicon-source.svg` - a simplified, high-contrast version of the icon mark, optimized for legibility at very small sizes (the bar-chart arrow is thickened and the clear space is minimized).
 
 ## Required Sizes
 
@@ -15,7 +15,10 @@ All favicons are generated from `logos/favicons/celoht-favicon-source.svg` - a s
 | `android-chrome-192x192.png` | 192×192 | Android home screen |
 | `android-chrome-512x512.png` | 512×512 | Android splash / PWA |
 | `mstile-150x150.png` | 150×150 | Windows tile |
-| `safari-pinned-tab.svg` | vector, single color | Safari pinned tab (use `logos/monochrome/celoht-logo-monochrome-black.svg`) |
+| `safari-pinned-tab.svg` | vector, single color | Safari pinned tab (use `celoht-logo-monochrome-black.svg`) |
+
+The generated files in this table are not currently committed to this repository.
+They are derived deliverables for consuming websites and applications.
 
 ## How to Generate the Full Set
 
@@ -23,12 +26,12 @@ The source SVG is intentionally simple so it can be exported with any standard S
 
 ```bash
 # Using an SVG rasterizer (e.g. resvg, Inkscape, or an online exporter)
-resvg logos/favicons/celoht-favicon-source.svg favicon-16x16.png -w 16 -h 16
-resvg logos/favicons/celoht-favicon-source.svg favicon-32x32.png -w 32 -h 32
-resvg logos/favicons/celoht-favicon-source.svg apple-touch-icon.png -w 180 -h 180
-resvg logos/favicons/celoht-favicon-source.svg android-chrome-192x192.png -w 192 -h 192
-resvg logos/favicons/celoht-favicon-source.svg android-chrome-512x512.png -w 512 -h 512
-resvg logos/favicons/celoht-favicon-source.svg mstile-150x150.png -w 150 -h 150
+resvg celoht-favicon-source.svg favicon-16x16.png -w 16 -h 16
+resvg celoht-favicon-source.svg favicon-32x32.png -w 32 -h 32
+resvg celoht-favicon-source.svg apple-touch-icon.png -w 180 -h 180
+resvg celoht-favicon-source.svg android-chrome-192x192.png -w 192 -h 192
+resvg celoht-favicon-source.svg android-chrome-512x512.png -w 512 -h 512
+resvg celoht-favicon-source.svg mstile-150x150.png -w 150 -h 150
 
 # Combine into a multi-resolution ICO (e.g. with ImageMagick)
 convert favicon-16x16.png favicon-32x32.png favicon.ico

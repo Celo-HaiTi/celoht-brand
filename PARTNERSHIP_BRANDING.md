@@ -43,5 +43,5 @@ Materials intended for government or NGO partnership contexts must include the f
 ## Event Co-Branding (Hackathons, Conferences)
 
 - CeloHT booth/banner materials follow [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) exactly
-- When CeloHT is a co-sponsor rather than lead organizer, use the icon-only mark (`logos/icon/`) at equal size to other co-sponsor logos in shared sponsor rows
+- When CeloHT is a co-sponsor rather than lead organizer, use `celoht-icon-full-color.svg` at equal size to other co-sponsor logos in shared sponsor rows
 - Never let CeloHT's logo appear larger than a co-lead organizer's logo without agreement

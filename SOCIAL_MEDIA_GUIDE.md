@@ -25,7 +25,7 @@
 | Telegram | 512×512px | - |
 | Discord (server icon) | 512×512px | - |
 
-Use `logos/icon/celoht-icon-full-color.svg` (exported to PNG at the required size) for all avatars - never stretch or crop the horizontal lockup into a square.
+Use `celoht-icon-full-color.svg` (exported to PNG at the required size) for all avatars - never stretch or crop the horizontal lockup into a square.
 
 ## Content Pillars (what to post, by pillar)
 

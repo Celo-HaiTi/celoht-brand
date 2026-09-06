@@ -4,6 +4,8 @@
 
 This Press Kit provides media-ready resources for reporting on CeloHT. For complete organizational background, brand identity specifications, governance detail, and community impact information, refer to the companion document, MEDIA_KIT.md.
 
+> **Publication status:** This is a working reference. Fields marked `TBD`, claims marked for confirmation, and placeholder quotes require source verification before external publication.
+
 ---
 
 ## Table of Contents
@@ -122,7 +124,7 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 
 Johnny Dubic founded CeloHT in Léogâne, Haiti, to build a community-governed initiative addressing financial inclusion, blockchain education, and environmental sustainability. CeloHT's governance model intentionally limits founder authority, distributing decision-making across a Foundation Director, Maintainer Council, and Community Contributors.
 
-Extended professional background and headshot: TBD. For governance context, see MEDIA_KIT.md, Founder Biography and Governance sections.
+Extended professional background and headshot: NOT VERIFIED. For brand context, see MEDIA_KIT.md.
 
 ---
 
@@ -131,8 +133,8 @@ Extended professional background and headshot: TBD. For governance context, see 
 | Role | Name | Profile |
 |---|---|---|
 | Founder | Johnny Dubic | See above |
-| Foundation Director | TBD | TBD |
-| Maintainer Council | TBD | Council composition maintained in GOVERNANCE.md |
+| Foundation Director | NOT VERIFIED | No governance charter is present in this repository |
+| Maintainer Council | NOT VERIFIED | No governance charter is present in this repository |
 
 ---
 
@@ -165,13 +167,13 @@ All quotes must be confirmed with the named speaker or CeloHT press contact prio
 ## Media FAQs
 
 **Is CeloHT affiliated with the Celo Foundation?**
-CeloHT is built on the Celo blockchain but is a distinct, independently governed initiative. Formal affiliation status: TBD (confirm before publication).
+CeloHT is built on the Celo blockchain but is a distinct initiative. The brand repository states that it is not officially affiliated with Celo Foundation or Valora; confirm any external affiliation claim before publication.
 
 **Can journalists quote CeloHT statistics directly?**
 Only statistics confirmed in official documentation (MEDIA_KIT.md, ROADMAP.md, or direct confirmation from contact@celoht.com) should be cited. Do not extrapolate or estimate figures.
 
 **Does CeloHT have a token journalists should be aware of?**
-No. CeloHT has no native token. Any third-party token claiming affiliation with CeloHT is not authorized - see NO_TOKEN_POLICY.md.
+No. CeloHT has no native token. Any third-party token claiming affiliation with CeloHT is not authorized - see [BRAND_GUIDE.md](./BRAND_GUIDE.md).
 
 **Who can confirm quotes or statistics for a story on deadline?**
 contact@celoht.com - see [Media Contact Information](#media-contact-information) for response expectations.
@@ -190,9 +192,9 @@ Official press photography (founder portrait, leadership photos, program/field p
 
 | Variant | File Location |
 |---|---|
-| Primary (yellow background) | `assets/branding/` - CeloHT Brand repository |
-| Transparent | `assets/branding/` - CeloHT Brand repository |
-| Favicon / icon-only | `assets/branding/` - CeloHT Brand repository |
+| Primary (yellow background) | `celoht-logo-original.png` and `celoht-logo-*.svg` at repository root |
+| Transparent | `celoht-logo-horizontal-full-color.svg` and approved SVG variants at repository root |
+| Favicon / icon-only | `celoht-favicon-source.svg` and `celoht-icon-full-color.svg` at repository root |
 
 Full logo specifications, exclusion zones, and color values are documented in BRAND_GUIDE.md. See also MEDIA_KIT.md, Logo System.
 
@@ -282,12 +284,9 @@ TBD. No awards or formal recognitions are confirmed for publication at this time
 | Resource | Location |
 |---|---|
 | Media Kit | MEDIA_KIT.md |
-| Whitepaper | WHITEPAPER.md |
+| Mission and vision | MISSION.md and VISION.md |
 | Roadmap | ROADMAP.md |
-| Governance charter | GOVERNANCE.md |
-| No Token Policy | NO_TOKEN_POLICY.md |
-| Legal status summary | LEGAL_STATUS.md |
-| Brand assets | Brand repository, `assets/branding/` |
+| Brand assets | Brand repository root; see `LOGO_GUIDELINES.md` |
 | This Press Kit | PRESS_KIT.md |
 
 ---
@@ -297,7 +296,7 @@ TBD. No awards or formal recognitions are confirmed for publication at this time
 When citing CeloHT in an article, report, or academic work:
 
 - Cite CeloHT as the source organization, with a link to celoht.com or the relevant GitHub repository.
-- Where citing a specific document (e.g., WHITEPAPER.md, ROADMAP.md), name the document explicitly.
+- Where citing a specific document (for example, ROADMAP.md), name the document explicitly.
 - Do not attribute statistics or quotes to CeloHT that have not been confirmed via contact@celoht.com.
 
 ---
@@ -322,7 +321,7 @@ Copyright CeloHT. Documentation and code are released under the Apache 2.0 licen
 
 ## Legal Disclaimer
 
-CeloHT is not a financial institution, investment adviser, or securities issuer. Nothing in this Press Kit constitutes financial, investment, legal, or tax advice, or an offer or solicitation to buy or sell any asset. CeloHT has no native token and does not conduct token sales, ICOs, presales, or staking programs. For full legal status details, refer to LEGAL_STATUS.md. This document is provided for informational purposes and is subject to updates; the most current version supersedes any prior version.
+CeloHT is not presented by this repository as a financial institution, investment adviser, or securities issuer. Nothing in this Press Kit constitutes financial, investment, legal, or tax advice, or an offer or solicitation to buy or sell any asset. CeloHT has no native token and does not conduct token sales, ICOs, presales, or staking programs. This working reference must be reviewed before external publication.
 
 ---
 

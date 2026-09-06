@@ -15,7 +15,7 @@ The format follows [Keep a Changelog](https://keepachangelog.com/en/1.1.0/), and
 - `TYPOGRAPHY.md` - complete type system and multilingual usage guidance
 - `VOICE_AND_TONE.md` - voice principles and required non-affiliation language in English, French, and Haitian Creole
 - `ROADMAP.md` - public roadmap for future brand assets and documentation
-- Logo asset set in `logos/`: horizontal, vertical, icon, symbol, monochrome (black/white), dark mode, and light mode SVG variants, plus the original reference PNG
+- Logo asset set at the repository root: horizontal, vertical, icon, symbol, monochrome (black/white), dark mode, and light mode SVG variants, plus the original reference PNG
 
 ### Notes
 This is the foundation release ("v1.0.0 Foundation Release"). It establishes the complete core identity system needed for consistent CeloHT representation across GitHub, the website, social media, and partner materials.
