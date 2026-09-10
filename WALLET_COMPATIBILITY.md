@@ -77,12 +77,13 @@ In particular, CeloHT is not officially affiliated with, endorsed by, sponsored 
 
 ## Verification Sources
 
-For implementation-level verification, consult:
+For implementation-level verification, consult the current CeloHT dApp and wallet-integration repositories, including:
 
-- `celoht-dapp/docs/WALLET_INTEGRATION.md`
-- `celoht-dapp/SUPPORTED_WALLETS.md`
-- `celoht-dapp` wallet integration source code
-- Current application deployment and end-to-end wallet tests
+- the dApp's current wallet integration documentation
+- the wallet integration source code in the relevant repository
+- current application deployment and end-to-end wallet tests
+
+This repository does not contain those implementation files, so runtime wallet compatibility must be verified in the active application and wallet-integration codebases.
 
 ## Conclusion
 

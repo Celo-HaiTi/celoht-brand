@@ -43,8 +43,8 @@ Logo files: `celoht-logo-[variant]-[color]-[format].[ext]`
 
 Examples:
 - `celoht-logo-horizontal-full-color.svg`
-- `celoht-logo-icon-monochrome-black.png`
-- `celoht-logo-vertical-white.svg`
+- `celoht-logo-monochrome-black.svg`
+- `celoht-logo-vertical-full-color.svg`
 
 ## Code of Conduct
 
