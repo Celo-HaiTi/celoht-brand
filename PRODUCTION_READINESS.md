@@ -53,9 +53,9 @@ repository in the ecosystem.
 
 - None. This repository has no application runtime or simulated production data.
 
-## HISTORICAL / DEPRECATED
+## ORGANIZATION IDENTITY
 
-- Any legacy `Celo-HT` organization reference is historical/deprecated and must not be used for new links.
+- The official CeloHT GitHub organization is `Celo-HaiTi`; new links must use that organization.
 - Any product, network, wallet, contract, address, balance, transaction, or Treasury claim is outside this repository's source-of-truth boundary.
 
 ## Security

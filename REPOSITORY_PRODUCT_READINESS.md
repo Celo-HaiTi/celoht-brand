@@ -35,7 +35,7 @@ This is not a wallet, dApp, smart-contract, payment-processing, or treasury-mana
 
 ## Changes Made
 
-- Corrected stale repository references from the legacy Celo-HT naming pattern to the canonical Celo-HaiTi repository context
+- Corrected repository references to the canonical Celo-HaiTi organization while preserving CeloHT as the project identity
 - Clarified that this repository is brand/documentation-only and does not implement wallet or payment functionality
 - Corrected inconsistent license references in the public-facing docs
 - Updated the primary repo references in the README, media kit, and press kit
