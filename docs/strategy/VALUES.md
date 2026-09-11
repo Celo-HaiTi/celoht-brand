@@ -9,7 +9,7 @@ Everything CeloHT builds - code, documentation, brand assets, governance process
 No hidden fees, no unclear disclaimers, no ambiguous relationship claims. If CeloHT's relationship to Celo or Valora needs a disclaimer, that disclaimer is stated plainly, every time, not buried in fine print.
 
 ## 3. Community First
-CeloHT is governed by its community, not owned by an individual. Brand, product, and governance decisions go through community discussion - see [CONTRIBUTING.md](./CONTRIBUTING.md).
+CeloHT is governed by its community, not owned by an individual. Brand, product, and governance decisions go through community discussion - see [CONTRIBUTING.md](../../CONTRIBUTING.md).
 
 ## 4. Financial Inclusion
 Every design and communication decision is evaluated against one question: does this make financial tools more accessible to someone with no prior experience, or less?
@@ -21,7 +21,7 @@ We teach before we ask people to act. Educational content is a permanent commitm
 Growth that damages the environment or exhausts community trust is not success. The Reforestation pillar exists because sustainability is not optional.
 
 ## 7. Accessibility
-Every document, interface, and asset meets WCAG 2.2 AA at minimum. Accessibility is a requirement, not a nice-to-have - see [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) and [TYPOGRAPHY.md](./TYPOGRAPHY.md).
+Every document, interface, and asset meets WCAG 2.2 AA at minimum. Accessibility is a requirement, not a nice-to-have - see [COLOR_SYSTEM.md](../brand/COLOR_SYSTEM.md) and [TYPOGRAPHY.md](../brand/TYPOGRAPHY.md).
 
 ## 8. Simplicity
 If a document, interface, or explanation needs a glossary to be understood by a first-time user, it needs to be rewritten, not footnoted.

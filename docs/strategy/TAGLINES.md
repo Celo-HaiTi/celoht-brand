@@ -26,6 +26,6 @@ Use this as the default tagline anywhere a single line accompanies the logo - we
 
 ## Usage Rules
 
-- Taglines pair with the logo but are never embedded inside the logo file itself - always set as separate typography (Fraunces italic or IBM Plex Sans, per [TYPOGRAPHY.md](./TYPOGRAPHY.md))
+- Taglines pair with the logo but are never embedded inside the logo file itself - always set as separate typography (Fraunces italic or IBM Plex Sans, per [TYPOGRAPHY.md](../brand/TYPOGRAPHY.md))
 - Never alter the wording of the primary tagline - secondary taglines may be used contextually but should not replace the primary tagline on flagship materials (README, homepage, official press kit)
 - Taglines must never imply financial return ("grow your money") - "grow" in CeloHT taglines always refers to community, education, or environmental growth

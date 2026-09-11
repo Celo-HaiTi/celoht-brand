@@ -173,7 +173,7 @@ CeloHT is built on the Celo blockchain but is a distinct initiative. The brand r
 Only statistics confirmed in official documentation (MEDIA_KIT.md, ROADMAP.md, or direct confirmation from contact@celoht.com) should be cited. Do not extrapolate or estimate figures.
 
 **Does CeloHT have a token journalists should be aware of?**
-No. CeloHT has no native token. Any third-party token claiming affiliation with CeloHT is not authorized - see [BRAND_GUIDE.md](./BRAND_GUIDE.md).
+No. CeloHT has no native token. Any third-party token claiming affiliation with CeloHT is not authorized - see [BRAND_GUIDE.md](../brand/BRAND_GUIDE.md).
 
 **Who can confirm quotes or statistics for a story on deadline?**
 contact@celoht.com - see [Media Contact Information](#media-contact-information) for response expectations.
@@ -192,9 +192,9 @@ Official press photography (founder portrait, leadership photos, program/field p
 
 | Variant | File Location |
 |---|---|
-| Primary (yellow background) | `celoht-logo-original.png` and `celoht-logo-*.svg` at repository root |
-| Transparent | `celoht-logo-horizontal-full-color.svg` and approved SVG variants at repository root |
-| Favicon / icon-only | `celoht-favicon-source.svg` and `celoht-icon-full-color.svg` at repository root |
+| Primary (yellow background) | `celoht-logo-original.png` and `celoht-logo-*.svg` under assets/logos |
+| Transparent | `celoht-logo-horizontal-full-color.svg` and approved SVG variants under assets/logos |
+| Favicon / icon-only | `celoht-favicon-source.svg` and `celoht-icon-full-color.svg` under assets/logos |
 
 Full logo specifications, exclusion zones, and color values are documented in BRAND_GUIDE.md. See also MEDIA_KIT.md, Logo System.
 
@@ -286,7 +286,7 @@ TBD. No awards or formal recognitions are confirmed for publication at this time
 | Media Kit | MEDIA_KIT.md |
 | Mission and vision | MISSION.md and VISION.md |
 | Roadmap | ROADMAP.md |
-| Brand assets | Brand repository root; see `LOGO_GUIDELINES.md` |
+| Brand assets | Brand assets/logos; see `LOGO_GUIDELINES.md` |
 | This Press Kit | PRESS_KIT.md |
 
 ---

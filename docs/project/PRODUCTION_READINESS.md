@@ -69,7 +69,7 @@ No Treasury audit is applicable here: there is no Treasury, Safe, AccessManager,
 - Tracked-file inventory reviewed on 2026-09-06.
 - Root asset existence checked for favicon source, icon, horizontal logo, and monochrome logo.
 - Repository-wide text search performed for legacy organization/network/asset terms, placeholders, and secret markers.
-- Documentation paths reconciled with the actual root-level asset layout.
+- Documentation paths reconciled with the actual assets/logos layout.
 - No install, lint, typecheck, unit test, build, coverage, E2E, or dependency audit command is defined because the repository has no executable project configuration.
 
 ## Remaining Blockers

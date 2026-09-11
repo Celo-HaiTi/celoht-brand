@@ -25,7 +25,7 @@ These require sign-off from at least two community maintainers, because they aff
 2. For visual assets, include a preview (image or link) - not just a description.
 3. Wait for at least one maintainer response before submitting a pull request; this avoids duplicated work.
 4. Submit a pull request referencing the issue.
-5. A maintainer will review against the standards in [BRAND_GUIDE.md](./BRAND_GUIDE.md).
+5. A maintainer will review against the standards in [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md).
 
 ## Standards for New Documents
 
@@ -48,7 +48,7 @@ Examples:
 
 ## Code of Conduct
 
-All contributors are expected to communicate respectfully and assume good faith, in any language. Disagreements about design direction should be resolved through discussion referencing the principles in [BRAND_GUIDE.md](./BRAND_GUIDE.md), not personal preference alone.
+All contributors are expected to communicate respectfully and assume good faith, in any language. Disagreements about design direction should be resolved through discussion referencing the principles in [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md), not personal preference alone.
 
 ## Questions?
 

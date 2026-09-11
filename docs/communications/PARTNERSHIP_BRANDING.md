@@ -5,7 +5,7 @@ For NGOs, universities, government bodies, and organizations (e.g. FreClean) col
 ## Co-Branding Principles
 
 1. **Equal visual weight, clear separation.** Partner logos are placed alongside - never inside, merged with, or overlapping - the CeloHT logo.
-2. **Clear space is non-negotiable.** Maintain full clear space (see [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md)) around the CeloHT mark even in co-branded layouts.
+2. **Clear space is non-negotiable.** Maintain full clear space (see [LOGO_GUIDELINES.md](../brand/LOGO_GUIDELINES.md)) around the CeloHT mark even in co-branded layouts.
 3. **No implied ownership.** Co-branding indicates collaboration on a specific initiative, not organizational merger, ownership, or exclusive partnership unless explicitly agreed in writing.
 
 ## Approved Co-Branding Layout
@@ -38,10 +38,10 @@ All co-branded materials (joint press releases, event banners, joint social post
 
 ## Government & NGO Materials
 
-Materials intended for government or NGO partnership contexts must include the full non-affiliation disclaimer (see [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md#required-disclaimer)) in visible, non-footnote text - these audiences require unambiguous clarity on CeloHT's independence and no-token status before any formal engagement.
+Materials intended for government or NGO partnership contexts must include the full non-affiliation disclaimer (see [LOGO_GUIDELINES.md](../brand/LOGO_GUIDELINES.md#required-disclaimer)) in visible, non-footnote text - these audiences require unambiguous clarity on CeloHT's independence and no-token status before any formal engagement.
 
 ## Event Co-Branding (Hackathons, Conferences)
 
-- CeloHT booth/banner materials follow [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) exactly
+- CeloHT booth/banner materials follow [LOGO_GUIDELINES.md](../brand/LOGO_GUIDELINES.md) exactly
 - When CeloHT is a co-sponsor rather than lead organizer, use `celoht-icon-full-color.svg` at equal size to other co-sponsor logos in shared sponsor rows
 - Never let CeloHT's logo appear larger than a co-lead organizer's logo without agreement

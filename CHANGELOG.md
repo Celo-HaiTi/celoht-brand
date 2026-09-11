@@ -22,4 +22,4 @@ This is the foundation release ("v1.0.0 Foundation Release"). It establishes the
 
 ## [Unreleased]
 
-Planned for future releases - see [ROADMAP.md](./ROADMAP.md).
+Planned for future releases - see [ROADMAP.md](./docs/project/ROADMAP.md).

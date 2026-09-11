@@ -46,7 +46,7 @@ CeloHT measures impact, not speculation: people trained, active learners, wallet
 | Logo shape | Navy "C" with gold growth-arrow / bar chart |
 | License | Apache 2.0 (docs/code) + trademark rules for marks |
 
-Full detail: [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) · [TYPOGRAPHY.md](./TYPOGRAPHY.md) · [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) · [VOICE_AND_TONE.md](./VOICE_AND_TONE.md)
+Full detail: [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) · [TYPOGRAPHY.md](./TYPOGRAPHY.md) · [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) · [VOICE_AND_TONE.md](../communications/VOICE_AND_TONE.md)
 
 ## Non-Affiliation & Disclaimers
 
@@ -62,13 +62,13 @@ CeloHT uses the Celo blockchain (USDm, CELO) and recommends the Valora wallet as
 ## How to Use This Guide
 
 - Building something with the logo? → [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md)
-- Writing copy? → [VOICE_AND_TONE.md](./VOICE_AND_TONE.md)
+- Writing copy? → [VOICE_AND_TONE.md](../communications/VOICE_AND_TONE.md)
 - Designing a UI or document? → [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) + [TYPOGRAPHY.md](./TYPOGRAPHY.md)
-- Proposing a new brand asset or guide? → [CONTRIBUTING.md](./CONTRIBUTING.md)
+- Proposing a new brand asset or guide? → [CONTRIBUTING.md](../../CONTRIBUTING.md)
 
 ## Roadmap
 
-This brand repository is built incrementally, with every published file complete and production-ready. Planned additions (tracked as community contributions, see [CONTRIBUTING.md](./CONTRIBUTING.md)):
+This brand repository is built incrementally, with every published file complete and production-ready. Planned additions (tracked as community contributions, see [CONTRIBUTING.md](../../CONTRIBUTING.md)):
 
 - ICONOGRAPHY.md, ILLUSTRATION_GUIDE.md, PHOTOGRAPHY_GUIDE.md
 - SOCIAL_MEDIA_GUIDE.md, PRESENTATION_GUIDE.md, PRESS_KIT.md

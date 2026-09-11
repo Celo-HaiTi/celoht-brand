@@ -94,12 +94,12 @@ CeloHT is released under the Apache 2.0 license for documentation and source fil
 
 ### Mission
 
-See [MISSION.md](./MISSION.md). The brand repository's current mission statement is
+See [MISSION.md](../strategy/MISSION.md). The brand repository's current mission statement is
 the source for this document; no separate `WHITEPAPER.md` is present here.
 
 ### Vision
 
-See [VISION.md](./VISION.md). No separate `WHITEPAPER.md` is present in this
+See [VISION.md](../strategy/VISION.md). No separate `WHITEPAPER.md` is present in this
 repository.
 
 ## Core Values
@@ -224,7 +224,7 @@ The official CeloHT logo features a dark navy "C" mark with a gold bar-chart-sty
 | Monochrome (if available) | TBD |
 
 Full logo files, usage clearances, and exclusion zones are available as root-level
-assets in this repository. See [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md). Do not
+assets in this repository. See [LOGO_GUIDELINES.md](../brand/LOGO_GUIDELINES.md). Do not
 modify, recolor, distort, or recompose the logo outside of approved variants.
 
 ---
@@ -244,7 +244,7 @@ Exact hex, RGB, and CMYK values are maintained in BRAND_GUIDE.md and the Brand r
 
 ## Typography
 
-Primary and secondary typefaces are defined in [TYPOGRAPHY.md](./TYPOGRAPHY.md): IBM Plex Sans for body/UI and Fraunces for display/headings.
+Primary and secondary typefaces are defined in [TYPOGRAPHY.md](../brand/TYPOGRAPHY.md): IBM Plex Sans for body/UI and Fraunces for display/headings.
 
 ---
 
@@ -336,7 +336,7 @@ for co-branding guidance only.
 ## Frequently Asked Questions
 
 **Is CeloHT a cryptocurrency investment?**
-No. CeloHT has no native token, has never run an ICO or presale, and does not offer staking or investment products. See [BRAND_GUIDE.md](./BRAND_GUIDE.md).
+No. CeloHT has no native token, has never run an ICO or presale, and does not offer staking or investment products. See [BRAND_GUIDE.md](../brand/BRAND_GUIDE.md).
 
 **What blockchain does CeloHT use?**
 CeloHT is built on the Celo blockchain, using the USDm stablecoin and CELO asset.
@@ -393,8 +393,8 @@ For detailed press-specific procedures, interview scheduling, and journalist gui
 
 The following assets are maintained in the CeloHT Brand and primary repositories and are available on request or directly via GitHub:
 
-- Logo files and favicon source - repository root; see [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) and [FAVICON_GUIDE.md](./FAVICON_GUIDE.md)
-- Brand color and typography specification - [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) and [TYPOGRAPHY.md](./TYPOGRAPHY.md)
+- Logo files and favicon source - assets/logos; see [LOGO_GUIDELINES.md](../brand/LOGO_GUIDELINES.md) and [FAVICON_GUIDE.md](../operations/FAVICON_GUIDE.md)
+- Brand color and typography specification - [COLOR_SYSTEM.md](../brand/COLOR_SYSTEM.md) and [TYPOGRAPHY.md](../brand/TYPOGRAPHY.md)
 - Roadmap - ROADMAP.md
 - Security policy - SECURITY.md
 - This Media Kit - MEDIA_KIT.md

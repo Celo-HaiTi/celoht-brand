@@ -88,7 +88,7 @@ Any material using Celo or Valora branding/technology references alongside the C
 ## File Index
 
 ```
-Repository root:
+`assets/logos/`:
 ├── celoht-logo-original.png
 ├── celoht-logo-horizontal-full-color.svg
 ├── celoht-logo-vertical-full-color.svg
@@ -99,7 +99,7 @@ Repository root:
 ├── celoht-logo-dark-mode.svg
 └── celoht-logo-light-mode.svg
 
-The favicon source is `celoht-favicon-source.svg`. Generated favicon derivatives are
-not currently committed; see [FAVICON_GUIDE.md](./FAVICON_GUIDE.md) before generating
+The favicon source is `assets/logos/celoht-favicon-source.svg`. Generated favicon derivatives are
+not currently committed; see [FAVICON_GUIDE.md](../operations/FAVICON_GUIDE.md) before generating
 them for a consuming application.
 ```

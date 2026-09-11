@@ -1,6 +1,6 @@
 # CeloHT Brand Repository Roadmap
 
-This roadmap is public and community-driven. Anyone can pick up an item - see [CONTRIBUTING.md](./CONTRIBUTING.md).
+This roadmap is public and community-driven. Anyone can pick up an item - see [CONTRIBUTING.md](../../CONTRIBUTING.md).
 
 ## v1.0.0 - Foundation Release (Complete)
 

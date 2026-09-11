@@ -62,26 +62,26 @@ It provides the single source of truth for:
 The repository currently includes the following core documents and guides:
 
 - [README.md](./README.md) — repository overview and entry point
-- [BRAND_GUIDE.md](./BRAND_GUIDE.md) — core identity and brand foundation
-- [MISSION.md](./MISSION.md) — mission and purpose
-- [VISION.md](./VISION.md) — future direction and long-term aspiration
-- [VALUES.md](./VALUES.md) — principles and shared standards
-- [TAGLINES.md](./TAGLINES.md) — approved or recommended message lines
-- [VOICE_AND_TONE.md](./VOICE_AND_TONE.md) — communication style and tone guidelines
-- [MESSAGING_FRAMEWORK.md](./MESSAGING_FRAMEWORK.md) — narrative structure and positioning
-- [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) — palette and visual system
-- [TYPOGRAPHY.md](./TYPOGRAPHY.md) — type hierarchy and usage
-- [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) — logo rules, clear space, and usage expectations
-- [ICONOGRAPHY.md](./ICONOGRAPHY.md) — icon and symbol usage guidance
-- [SOCIAL_MEDIA_GUIDE.md](./SOCIAL_MEDIA_GUIDE.md) — social communication conventions
-- [PRESS_KIT.md](./PRESS_KIT.md) — media and public-facing assets
-- [MEDIA_KIT.md](./MEDIA_KIT.md) — broader media resources and references
-- [FAVICON_GUIDE.md](./FAVICON_GUIDE.md) — favicon and small-format identity usage
-- [PARTNERSHIP_BRANDING.md](./PARTNERSHIP_BRANDING.md) — partner-facing brand guidelines
-- [WALLET_COMPATIBILITY.md](./WALLET_COMPATIBILITY.md) — interoperability and wallet ecosystem guidance
+- [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md) — core identity and brand foundation
+- [MISSION.md](./docs/strategy/MISSION.md) — mission and purpose
+- [VISION.md](./docs/strategy/VISION.md) — future direction and long-term aspiration
+- [VALUES.md](./docs/strategy/VALUES.md) — principles and shared standards
+- [TAGLINES.md](./docs/strategy/TAGLINES.md) — approved or recommended message lines
+- [VOICE_AND_TONE.md](./docs/communications/VOICE_AND_TONE.md) — communication style and tone guidelines
+- [MESSAGING_FRAMEWORK.md](./docs/strategy/MESSAGING_FRAMEWORK.md) — narrative structure and positioning
+- [COLOR_SYSTEM.md](./docs/brand/COLOR_SYSTEM.md) — palette and visual system
+- [TYPOGRAPHY.md](./docs/brand/TYPOGRAPHY.md) — type hierarchy and usage
+- [LOGO_GUIDELINES.md](./docs/brand/LOGO_GUIDELINES.md) — logo rules, clear space, and usage expectations
+- [ICONOGRAPHY.md](./docs/brand/ICONOGRAPHY.md) — icon and symbol usage guidance
+- [SOCIAL_MEDIA_GUIDE.md](./docs/communications/SOCIAL_MEDIA_GUIDE.md) — social communication conventions
+- [PRESS_KIT.md](./docs/communications/PRESS_KIT.md) — media and public-facing assets
+- [MEDIA_KIT.md](./docs/communications/MEDIA_KIT.md) — broader media resources and references
+- [FAVICON_GUIDE.md](./docs/operations/FAVICON_GUIDE.md) — favicon and small-format identity usage
+- [PARTNERSHIP_BRANDING.md](./docs/communications/PARTNERSHIP_BRANDING.md) — partner-facing brand guidelines
+- [WALLET_COMPATIBILITY.md](./docs/operations/WALLET_COMPATIBILITY.md) — interoperability and wallet ecosystem guidance
 - [CONTRIBUTING.md](./CONTRIBUTING.md) — how to propose changes and improvements
-- [REPOSITORY_PRODUCT_READINESS.md](./REPOSITORY_PRODUCT_READINESS.md) — repository status and quality framing
-- [ROADMAP.md](./ROADMAP.md) — planned repository evolution
+- [REPOSITORY_PRODUCT_READINESS.md](./docs/project/REPOSITORY_PRODUCT_READINESS.md) — repository status and quality framing
+- [ROADMAP.md](./docs/project/ROADMAP.md) — planned repository evolution
 - [LICENSE](./LICENSE) — Apache 2.0 licensing for repository content
 - [CODE_OF_CONDUCT.md](./CODE_OF_CONDUCT.md) — community behavior expectations
 - [SECURITY.md](./SECURITY.md) — relevant reporting and security guidance
@@ -92,10 +92,10 @@ The repository currently includes the following core documents and guides:
 
 Use this repository in the following order:
 
-- Start with [BRAND_GUIDE.md](./BRAND_GUIDE.md) for the overall identity framework
-- Review [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) before using the CeloHT logo
-- Check [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) and [TYPOGRAPHY.md](./TYPOGRAPHY.md) for design standards
-- Read [VOICE_AND_TONE.md](./VOICE_AND_TONE.md) and [MESSAGING_FRAMEWORK.md](./MESSAGING_FRAMEWORK.md) for writing and positioning
+- Start with [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md) for the overall identity framework
+- Review [LOGO_GUIDELINES.md](./docs/brand/LOGO_GUIDELINES.md) before using the CeloHT logo
+- Check [COLOR_SYSTEM.md](./docs/brand/COLOR_SYSTEM.md) and [TYPOGRAPHY.md](./docs/brand/TYPOGRAPHY.md) for design standards
+- Read [VOICE_AND_TONE.md](./docs/communications/VOICE_AND_TONE.md) and [MESSAGING_FRAMEWORK.md](./docs/strategy/MESSAGING_FRAMEWORK.md) for writing and positioning
 - Use [CONTRIBUTING.md](./CONTRIBUTING.md) if you want to propose changes or additions
 
 ---
@@ -117,7 +117,7 @@ CeloHT's identity is shaped by these principles:
 
 CeloHT uses the Celo blockchain and related network infrastructure as a technical and operational choice. This repository contains brand, narrative, and documentation materials only. It does not contain wallet software, dApp logic, smart contract implementations, or payment-processing systems.
 
-CeloHT is not officially affiliated with, endorsed by, or operated by the Celo Foundation or Valora. Any official material that references Celo or Valora should carry the required disclosure language described in [BRAND_GUIDE.md](./BRAND_GUIDE.md) and [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md).
+CeloHT is not officially affiliated with, endorsed by, or operated by the Celo Foundation or Valora. Any official material that references Celo or Valora should carry the required disclosure language described in [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md) and [LOGO_GUIDELINES.md](./docs/brand/LOGO_GUIDELINES.md).
 
 ---
 
@@ -134,7 +134,7 @@ Founded by Johnny Dubic and governed by the broader CeloHT community.
 
 ## License
 
-The repository content is licensed under the [Apache License 2.0](./LICENSE). Please also respect the separate trademark and usage rules described in [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md) for the CeloHT name and marks.
+The repository content is licensed under the [Apache License 2.0](./LICENSE). Please also respect the separate trademark and usage rules described in [LOGO_GUIDELINES.md](./docs/brand/LOGO_GUIDELINES.md) for the CeloHT name and marks.
 
 ---
 
