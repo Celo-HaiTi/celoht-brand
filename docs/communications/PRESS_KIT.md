@@ -95,7 +95,7 @@ Media Contact
 | Blockchain | Celo |
 | Assets used | USDm, CELO |
 | Native token | None |
-| Wallet support | NOT CONFIGURED in this repository; wallet functionality belongs in product/application repos |
+| Wallet support | CeloHT supports Valora, MiniPay, and WalletConnect. |
 | License | Apache 2.0 for docs/source in this repository; trademark rules apply to CeloHT marks |
 | Core pillars | Education, Agent Network, Reforestation |
 | Governance | Foundation Director → Maintainer Council → Community Contributors |
@@ -167,7 +167,7 @@ All quotes must be confirmed with the named speaker or CeloHT press contact prio
 ## Media FAQs
 
 **Is CeloHT affiliated with the Celo Foundation?**
-CeloHT is built on the Celo blockchain but is a distinct initiative. The brand repository states that it is not officially affiliated with Celo Foundation or Valora; confirm any external affiliation claim before publication.
+CeloHT is built on the Celo blockchain but is a distinct initiative. CeloHT supports wallet connectivity through Valora, MiniPay, and WalletConnect. Valora is recommended for users seeking a full-featured Celo wallet experience, while MiniPay provides an integrated mobile wallet experience and WalletConnect enables compatible wallets to connect to the CeloHT dApp. The brand repository states that it is not officially affiliated with Celo Foundation or Valora; confirm any external affiliation claim before publication.
 
 **Can journalists quote CeloHT statistics directly?**
 Only statistics confirmed in official documentation (MEDIA_KIT.md, ROADMAP.md, or direct confirmation from contact@celoht.com) should be cited. Do not extrapolate or estimate figures.

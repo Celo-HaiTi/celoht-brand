@@ -84,7 +84,7 @@ CeloHT is a community-governed Web3 initiative built on the Celo blockchain. It 
 - **Agent Network** - a human network enabling cash-to-USDm conversion, wallet onboarding, and community liquidity, extending financial access to people without traditional banking infrastructure.
 - **Reforestation** - an environmental sustainability program, currently in its design and pilot phase.
 
-This repository is the brand and identity asset package for CeloHT. It does not implement wallet, dApp, smart-contract, or payment-product functionality. Any wallet or product support status belongs in the application repositories under the Celo-HaiTi organization.
+This repository is the brand and identity asset package for CeloHT. CeloHT supports wallet connectivity through Valora, MiniPay, and WalletConnect, providing users with multiple ways to connect to the CeloHT dApp and interact with supported Celo services. CeloHT is wallet-agnostic and does not operate or custody user wallets. Wallets are used by users to connect and authorize transactions through the CeloHT dApp.
 
 CeloHT is released under the Apache 2.0 license for documentation and source files in this repository, with separate trademark rules for logo and brand marks.
 
@@ -141,7 +141,7 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 | Blockchain | Celo |
 | Primary Assets Used | USDm, CELO |
 | Native Token | None (see No Token Policy) |
-| Wallet Support | Product wallet support is NOT CONFIGURED in this repository; wallet functionality belongs in the application repos |
+| Supported Wallets | Valora, MiniPay, and WalletConnect |
 | License | Apache 2.0 for docs/source in this repository; trademark rules apply to CeloHT marks |
 | Governance Model | Foundation Director → Maintainer Council → Community Contributors |
 | Core Pillars | Education, Agent Network, Reforestation |
@@ -342,7 +342,7 @@ No. CeloHT has no native token, has never run an ICO or presale, and does not of
 CeloHT is built on the Celo blockchain, using the USDm stablecoin and CELO asset.
 
 **What wallet does CeloHT support?**
-Wallet support is not implemented in this repository. This repo is limited to brand and documentation assets; any wallet compatibility status must be verified in the product/application repositories under the Celo-HaiTi organization.
+CeloHT supports Valora, MiniPay, and WalletConnect. Valora is recommended for users seeking a full-featured Celo wallet experience, while MiniPay provides an integrated mobile wallet experience and WalletConnect enables compatible wallets to connect to the CeloHT dApp.
 
 **Who governs CeloHT?**
 Governance flows through a Foundation Director, a Maintainer Council, and Community Contributors. CeloHT is community-governed, not founder-controlled.
