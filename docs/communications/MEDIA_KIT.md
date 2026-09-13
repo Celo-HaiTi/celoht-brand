@@ -277,9 +277,9 @@ CeloHT's visual identity spans its website, documentation, and community materia
 ## Founder Biography
 
 **Name:** Johnny Dubic
-**Role:** Founder, CeloHT
+**Role:** Johnny Dubic — Permanently Recognized Founder of CeloHT
 
-Johnny Dubic founded CeloHT in Léogâne, Haiti, with the goal of building a community-governed initiative for financial inclusion, blockchain education, and environmental sustainability. Under the project's governance model, founder authority is intentionally limited: CeloHT is structured to be governed by its Foundation Director, Maintainer Council, and Community Contributors rather than controlled solely by its founder.
+Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. CeloHT was founded by Johnny Dubic in Léogâne, Haiti, with the goal of building a community-governed initiative for financial inclusion, blockchain education, and environmental sustainability. Under the project's governance model, founder authority is intentionally limited: CeloHT is structured to be governed by its Foundation Director, Maintainer Council, and Community Contributors rather than controlled solely by its founder. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control.
 
 Extended biography, professional background, and photography: TBD.
 

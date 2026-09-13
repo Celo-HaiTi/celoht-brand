@@ -120,9 +120,9 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 
 ## Founder Biography
 
-**Johnny Dubic**, Founder, CeloHT
+**Johnny Dubic — Permanently Recognized Founder of CeloHT**
 
-Johnny Dubic founded CeloHT in Léogâne, Haiti, to build a community-governed initiative addressing financial inclusion, blockchain education, and environmental sustainability. CeloHT's governance model intentionally limits founder authority, distributing decision-making across a Foundation Director, Maintainer Council, and Community Contributors.
+Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. CeloHT was founded by Johnny Dubic in Léogâne, Haiti, to build a community-governed initiative addressing financial inclusion, blockchain education, and environmental sustainability. CeloHT's governance model intentionally limits founder authority, distributing decision-making across a Foundation Director, Maintainer Council, and Community Contributors. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control.
 
 Extended professional background and headshot: NOT VERIFIED. For brand context, see MEDIA_KIT.md.
 
@@ -141,7 +141,7 @@ Extended professional background and headshot: NOT VERIFIED. For brand context, 
 ## Official Quotes
 
 **On CeloHT's mission:**
-"CeloHT exists to put financial access, education, and environmental responsibility directly in the hands of the community it serves." - Johnny Dubic, Founder, CeloHT *(placeholder pending founder confirmation - TBD)*
+"CeloHT exists to put financial access, education, and environmental responsibility directly in the hands of the community it serves." - Johnny Dubic — Permanently Recognized Founder of CeloHT
 
 **On governance:**
 "CeloHT is built to be governed by its community, not controlled by its founder. That distinction shapes every decision we make." - CeloHT Leadership *(placeholder pending confirmation - TBD)*

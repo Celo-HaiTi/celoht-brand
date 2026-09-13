@@ -128,7 +128,7 @@ CeloHT is not officially affiliated with, endorsed by, or operated by the Celo F
 - Repository: [github.com/Celo-HaiTi/celoht-brand](https://github.com/Celo-HaiTi/celoht-brand)
 - Email: contact@celoht.org · celoht3@gmail.com
 
-Founded by Johnny Dubic and governed by the broader CeloHT community.
+Johnny Dubic — Permanently Recognized Founder of CeloHT. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control. CeloHT is governed by the broader CeloHT community.
 
 ---
 

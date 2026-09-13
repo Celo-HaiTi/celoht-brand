@@ -13,7 +13,7 @@ This is the master reference for CeloHT's identity. It summarizes and links to t
 2. **Agent Network** - local, human support for digital financial access
 3. **Reforestation** - environmental sustainability tied to community development
 
-**Governance:** CeloHT is explicitly community-governed. No individual, including founder Johnny Dubic, controls it unilaterally - decisions are shaped through community discussion, collaboration, and shared responsibility.
+**Governance:** CeloHT is explicitly community-governed. Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control. Decisions are shaped through community discussion, collaboration, and shared responsibility.
 
 ## What CeloHT Is Not
 

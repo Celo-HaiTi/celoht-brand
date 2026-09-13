@@ -1,6 +1,6 @@
 # Contributing to the CeloHT Brand Repository
 
-Thank you for helping build CeloHT's visual identity. This repository is community-governed - no single person, including the founder, unilaterally decides what CeloHT looks like. Changes are made through discussion, review, and consensus.
+Thank you for helping build CeloHT's visual identity. This repository is community-governed. Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record, but no single person, including the Founder, unilaterally decides what CeloHT looks like. Changes are made through discussion, review, and consensus.
 
 ## What You Can Contribute
 
