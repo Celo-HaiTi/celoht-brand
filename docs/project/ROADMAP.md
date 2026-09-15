@@ -1,4 +1,4 @@
-# CeloHT Brand Repository Roadmap
+# Celo-HaiTi Brand Repository Roadmap
 
 This roadmap is public and community-driven. Anyone can pick up an item - see [CONTRIBUTING.md](../../CONTRIBUTING.md).
 

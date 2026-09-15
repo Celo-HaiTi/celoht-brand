@@ -1,8 +1,8 @@
-# CeloHT Brand Repository Production Readiness
+# Celo-HaiTi Brand Repository Production Readiness
 
 **Audit date:** 2026-09-06
 **Repository:** `Celo-HaiTi/celoht-brand`
-**Role:** Official visual identity, brand guidance, and communication asset source
+**Role:** Official visual identity, brand guidance, and communication asset source for Celo-HaiTi
 
 This report describes this repository only. It does not certify the CeloHT dApp,
 smart contracts, administration system, website, governance, Treasury, or any other

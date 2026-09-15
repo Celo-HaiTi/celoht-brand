@@ -1,6 +1,6 @@
-# CeloHT Partnership & Co-Branding Guidelines
+# Celo-HaiTi Partnership & Co-Branding Guidelines
 
-For NGOs, universities, government bodies, and organizations (e.g. FreClean) collaborating with CeloHT.
+For NGOs, universities, government bodies, and organizations collaborating with Celo-HaiTi.
 
 Partnership and representation activities are carried out within CeloHT's governance
 and operational framework. Partnership responsibilities do not confer governance

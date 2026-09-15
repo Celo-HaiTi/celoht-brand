@@ -1,6 +1,6 @@
-# CeloHT Brand Repository
+# Celo-HaiTi Brand Repository
 
-Official brand, identity, and communication assets for CeloHT, an open-source, Haitian-led, community-governed initiative focused on financial inclusion, digital literacy, and sustainable development in Haiti.
+Official brand, identity, and communication assets for Celo-HaiTi, an open-source, Haitian-led, community-governed initiative focused on financial inclusion, digital literacy, and sustainable development in Haiti.
 
 [![License: Apache 2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](./LICENSE)
 [![Maintained by CeloHT Community](https://img.shields.io/badge/Maintained%20by-CeloHT%20Community-1B2A4A)](https://celoht.com)
@@ -9,7 +9,7 @@ Official brand, identity, and communication assets for CeloHT, an open-source, H
 
 ## Overview
 
-CeloHT is an open-source, community-driven initiative that uses blockchain infrastructure as a tool for access, education, and practical inclusion. The work is rooted in Haitian Creole communication, local trust-building, and long-term community development.
+Celo-HaiTi is an open-source, community-driven initiative that uses blockchain infrastructure as a tool for access, education, and practical inclusion. The work is rooted in Haitian Creole communication, local trust-building, and long-term community development.
 
 This repository is the canonical source for:
 
@@ -23,9 +23,9 @@ This is a brand and documentation repository. It is not a product, wallet, dApp,
 
 ---
 
-## What CeloHT Stands For
+## What Celo-HaiTi Stands For
 
-CeloHT is guided by three core pillars:
+Celo-HaiTi is guided by three core pillars:
 
 | Pillar | Purpose |
 |---|---|
@@ -46,7 +46,7 @@ CeloHT uses Celo network infrastructure as a technical choice, not as a formal e
 
 ## Purpose of This Repository
 
-This repository exists to ensure that CeloHT presents itself consistently, credibly, and accessibly wherever the name, logo, or message appears.
+This repository exists to ensure that Celo-HaiTi presents itself consistently, credibly, and accessibly wherever the name, logo, or message appears.
 
 It provides the single source of truth for:
 
@@ -118,7 +118,7 @@ CeloHT's identity is shaped by these principles:
 
 CeloHT uses the Celo blockchain and related network infrastructure as a technical and operational choice. This repository contains brand, narrative, and documentation materials only. It does not contain wallet software, dApp logic, smart contract implementations, or payment-processing systems.
 
-CeloHT is not officially affiliated with, endorsed by, or operated by the Celo Foundation or Valora. Any official material that references Celo or Valora should carry the required disclosure language described in [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md) and [LOGO_GUIDELINES.md](./docs/brand/LOGO_GUIDELINES.md).
+CeloHT is not officially affiliated with, endorsed by, or operated by the Celo Foundation or Valora. The current wallet strategy supports MiniPay, Valora, and WalletConnect-compatible wallets as user options; this does not imply an official partnership or affiliation. Any official material that references Celo or wallet providers should carry the required disclosure language described in [BRAND_GUIDE.md](./docs/brand/BRAND_GUIDE.md) and [LOGO_GUIDELINES.md](./docs/brand/LOGO_GUIDELINES.md).
 
 ---
 

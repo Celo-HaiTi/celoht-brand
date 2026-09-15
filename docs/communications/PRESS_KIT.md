@@ -1,4 +1,4 @@
-# CeloHT Press Kit
+# Celo-HaiTi Press Kit
 
 **Resources for Journalists and Media Organizations**
 
@@ -168,7 +168,7 @@ All quotes must be confirmed with the named speaker or CeloHT press contact prio
 ## Media FAQs
 
 **Is CeloHT affiliated with the Celo Foundation?**
-CeloHT is built on the Celo blockchain but is a distinct initiative. CeloHT supports wallet connectivity through Valora, MiniPay, and WalletConnect. Valora is recommended for users seeking a full-featured Celo wallet experience, while MiniPay provides an integrated mobile wallet experience and WalletConnect enables compatible wallets to connect to the CeloHT dApp. The brand repository states that it is not officially affiliated with Celo Foundation or Valora; confirm any external affiliation claim before publication.
+CeloHT is built on the Celo blockchain but is a distinct initiative. CeloHT supports MiniPay, Valora, and WalletConnect-compatible wallets as user options; this is a compatibility strategy, not an official affiliation or partnership. The brand repository states that it is not officially affiliated with Celo Foundation or Valora; confirm any external affiliation claim before publication.
 
 **Can journalists quote CeloHT statistics directly?**
 Only statistics confirmed in official documentation (MEDIA_KIT.md, ROADMAP.md, or direct confirmation from contact@celoht.com) should be cited. Do not extrapolate or estimate figures.
@@ -225,7 +225,7 @@ TBD. No official event photography is confirmed for publication at this time. Th
 |---|---|---|
 | Press inquiries | contact@celoht.com | Primary point of contact for journalists |
 | Alternate contact | celoht3@gmail.com | Secondary channel |
-| Partnership-related press | partnerships@celoht.com | For coverage involving partners such as FreClean |
+| Partnership-related press | partnerships@celoht.com | For coverage involving confirmed or prospective partners; do not assume a relationship without evidence |
 | Security-related disclosures | security@celoht.com | Not for general press use |
 
 **Expected response time:** TBD. Journalists on tight deadlines should note their timeframe explicitly in the subject line of their inquiry.

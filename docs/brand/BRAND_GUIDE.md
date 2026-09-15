@@ -1,6 +1,6 @@
-# CeloHT Brand Guide
+# Celo-HaiTi Brand Guide
 
-This is the master reference for CeloHT's identity. It summarizes and links to the detailed guides in this repository.
+This is the master reference for Celo-HaiTi's identity. It summarizes and links to the detailed guides in this repository.
 
 ## Brand Foundation
 
@@ -13,7 +13,7 @@ This is the master reference for CeloHT's identity. It summarizes and links to t
 2. **Agent Network** - local, human support for digital financial access
 3. **Reforestation** - environmental sustainability tied to community development
 
-**Governance:** CeloHT is explicitly community-governed. Its Governance Council is the highest ongoing collective decision-making body. Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control. Maintainers provide technical and project stewardship within their scope, while Working Groups and Contributors operate within their documented mandates and contribution framework. See [GOVERNANCE.md](../../GOVERNANCE.md).
+**Governance:** Celo-HaiTi is explicitly community-governed. Its Governance Council is the highest ongoing collective decision-making body. Johnny Dubic is permanently recognized as the Founder of Celo-HaiTi in the project's historical and institutional record. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control. Maintainers provide technical and project stewardship within their scope, while Working Groups and Contributors operate within their documented mandates and contribution framework. See [GOVERNANCE.md](../../GOVERNANCE.md).
 
 ## What CeloHT Is Not
 
@@ -50,7 +50,7 @@ Full detail: [COLOR_SYSTEM.md](./COLOR_SYSTEM.md) · [TYPOGRAPHY.md](./TYPOGRAPH
 
 ## Non-Affiliation & Disclaimers
 
-CeloHT uses the Celo blockchain (USDm, CELO) and recommends the Valora wallet as infrastructure choices, not as an endorsement or partnership. Every official material referencing Celo or Valora must carry the disclaimer in [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md#required-disclaimer).
+CeloHT uses Celo network infrastructure (USDm for value transfer and CELO for gas) and supports a wallet strategy that includes MiniPay, Valora, and WalletConnect-compatible wallets. This is a technical and user-choice positioning, not an endorsement or partnership. Every official material referencing Celo or wallet providers must carry the disclaimer in [LOGO_GUIDELINES.md](./LOGO_GUIDELINES.md#required-disclaimer).
 
 ## Design Principles
 

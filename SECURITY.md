@@ -1,4 +1,4 @@
-# Security Policy - CeloHT Brand Repository
+# Security Policy - Celo-HaiTi Brand Repository
 
 ## Scope
 

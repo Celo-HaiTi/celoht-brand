@@ -2,7 +2,7 @@
 
 ## Repository Purpose
 
-This repository is the official CeloHT brand and identity package. Its responsibility is to maintain the public visual identity, messaging, documentation standards, and reusable logo/design assets for CeloHT as a community-governed initiative in Haiti.
+This repository is the official Celo-HaiTi brand and identity package. Its responsibility is to maintain the public visual identity, messaging, documentation standards, and reusable logo/design assets for Celo-HaiTi as a community-governed initiative in Haiti.
 
 This is not a wallet, dApp, smart-contract, payment-processing, or treasury-management implementation repository. It does not process user funds, sign transactions, or manage blockchain assets.
 

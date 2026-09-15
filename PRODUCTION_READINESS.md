@@ -1,4 +1,4 @@
-# CeloHT Brand Repository Production Readiness
+# Celo-HaiTi Brand Repository Production Readiness
 
 ## Executive Status
 

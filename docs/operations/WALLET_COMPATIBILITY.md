@@ -16,11 +16,11 @@ The CeloHT dApp is designed to support multiple wallet access methods rather tha
 
 The current documented wallet integrations include:
 
-- **MiniPay** when the dApp is opened inside MiniPay
-- **Valora** through WalletConnect
-- **Other compatible mobile wallets** through WalletConnect or another supported wallet integration
+- **MiniPay** as a supported mobile-wallet option
+- **Valora** as a supported Celo wallet option
+- **WalletConnect-compatible wallets** as supported connection options for the broader Celo ecosystem
 
-Wallet availability and supported functionality may vary by application version, device, wallet provider, network, and integration status.
+Wallet availability and supported functionality may vary by application version, device, wallet provider, network, and integration status. This document does not establish official affiliation with any wallet provider.
 
 ## Compatibility Matrix
 

@@ -1,4 +1,4 @@
-# CeloHT Media Kit
+# Celo-HaiTi Media Kit
 
 **Community-Governed Financial Inclusion, Blockchain Education, and Environmental Sustainability**
 
@@ -8,7 +8,7 @@ Official reference document for journalists, investors, donors, foundations, gov
 
 ## Cover Page
 
-**Organization:** CeloHT
+**Organization:** Celo-HaiTi
 **Tagline:** Financial inclusion, built with community.
 **Headquarters:** Léogâne, Haiti
 **Built on:** Celo blockchain
@@ -68,7 +68,7 @@ Official reference document for journalists, investors, donors, foundations, gov
 
 ## Executive Summary
 
-CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti, dedicated to advancing financial inclusion, blockchain education, and environmental sustainability. Built on the Celo blockchain and using the USDm stablecoin, CeloHT operates through three core pillars: Education, an Agent Network for cash-to-USDm conversion and wallet onboarding, and a Reforestation program.
+Celo-HaiTi is a community-governed Web3 initiative headquartered in Léogâne, Haiti, dedicated to advancing financial inclusion, blockchain education, and environmental sustainability. Built on the Celo blockchain and using the USDm stablecoin, Celo-HaiTi operates through three core pillars: Education, an Agent Network for cash-to-USDm conversion and wallet onboarding, and a Reforestation program.
 
 CeloHT is explicitly community-governed rather than founder-controlled. Its Governance Council is the highest ongoing collective decision-making body. Maintainers provide technical and project stewardship, Working Groups carry out scoped work, and Contributors participate through the contribution and governance framework. The organization follows a strict No Token Policy: it does not issue a native token, has never conducted an ICO or presale, and does not present any activity as an investment or speculative opportunity.
 
