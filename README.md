@@ -1,4 +1,4 @@
-# Celo-HaiTi Brand Repository
+# Celo-HT Brand Repository
 
 Official brand, identity, and communication assets for Celo-HaiTi, an open-source, Haitian-led, community-governed initiative focused on financial inclusion, digital literacy, and sustainable development in Haiti.
 
