@@ -76,6 +76,7 @@ The repository currently includes the following core documents and guides:
 - [SOCIAL_MEDIA_GUIDE.md](./docs/communications/SOCIAL_MEDIA_GUIDE.md) — social communication conventions
 - [PRESS_KIT.md](./docs/communications/PRESS_KIT.md) — media and public-facing assets
 - [MEDIA_KIT.md](./docs/communications/MEDIA_KIT.md) — broader media resources and references
+- [GOVERNANCE.md](./GOVERNANCE.md) — canonical governance authority and role boundaries
 - [FAVICON_GUIDE.md](./docs/operations/FAVICON_GUIDE.md) — favicon and small-format identity usage
 - [PARTNERSHIP_BRANDING.md](./docs/communications/PARTNERSHIP_BRANDING.md) — partner-facing brand guidelines
 - [WALLET_COMPATIBILITY.md](./docs/operations/WALLET_COMPATIBILITY.md) — interoperability and wallet ecosystem guidance
@@ -128,7 +129,7 @@ CeloHT is not officially affiliated with, endorsed by, or operated by the Celo F
 - Repository: [github.com/Celo-HaiTi/celoht-brand](https://github.com/Celo-HaiTi/celoht-brand)
 - Email: contact@celoht.org · celoht3@gmail.com
 
-Johnny Dubic — Permanently Recognized Founder of CeloHT. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control. CeloHT is governed by the broader CeloHT community.
+Johnny Dubic — Permanently Recognized Founder of CeloHT. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control. CeloHT's Governance Council is its highest ongoing collective decision-making body. See [GOVERNANCE.md](./GOVERNANCE.md) for role boundaries.
 
 ---
 

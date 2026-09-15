@@ -70,7 +70,7 @@ Official reference document for journalists, investors, donors, foundations, gov
 
 CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti, dedicated to advancing financial inclusion, blockchain education, and environmental sustainability. Built on the Celo blockchain and using the USDm stablecoin, CeloHT operates through three core pillars: Education, an Agent Network for cash-to-USDm conversion and wallet onboarding, and a Reforestation program.
 
-CeloHT is explicitly community-governed rather than founder-controlled, following a governance structure that moves authority from a Foundation Director through a Maintainer Council to Community Contributors. The organization follows a strict No Token Policy: it does not issue a native token, has never conducted an ICO or presale, and does not present any activity as an investment or speculative opportunity.
+CeloHT is explicitly community-governed rather than founder-controlled. Its Governance Council is the highest ongoing collective decision-making body. Maintainers provide technical and project stewardship, Working Groups carry out scoped work, and Contributors participate through the contribution and governance framework. The organization follows a strict No Token Policy: it does not issue a native token, has never conducted an ICO or presale, and does not present any activity as an investment or speculative opportunity.
 
 CeloHT's work is described in a four-phase roadmap, but current phase completion is not verified by this repository. This Media Kit is a working reference and is not publication-ready without claim verification.
 
@@ -106,7 +106,7 @@ repository.
 
 | Value | Description |
 |---|---|
-| Community Governance | Authority is distributed through a Foundation Director, Maintainer Council, and Community Contributors rather than concentrated with a single founder. |
+| Community Governance | The Governance Council is the highest ongoing collective decision-making body; Maintainers, Working Groups, and Contributors operate within documented scopes rather than through a founder-led hierarchy. |
 | Financial Inclusion | Programs are designed to extend practical financial access to unbanked and underbanked populations. |
 | Transparency | Work is conducted in the open, on public repositories, with published governance and funding policies. |
 | Education First | Technical and financial literacy are prioritized ahead of promotion or adoption metrics. |
@@ -125,7 +125,7 @@ TBD - to be finalized and kept consistent with README.md tagline once confirmed.
 CeloHT is a community-governed initiative in Léogâne, Haiti, using the Celo blockchain to expand financial inclusion, blockchain education, and reforestation - without a native token, without speculation, and with governance shared across the community it serves.
 
 **Extended pitch (approx. 75–100 words):**
-CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti. Built on the Celo blockchain, it operates through three pillars - Education, an Agent Network for cash-to-USDm conversion and wallet onboarding, and Reforestation - to expand financial inclusion and environmental resilience in communities that need it most. CeloHT maintains a strict No Token Policy, has no native token, and does not present its programs as investment opportunities. Governance flows from a Foundation Director through a Maintainer Council to Community Contributors, ensuring the initiative remains accountable to the community it serves rather than to a single founder.
+CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti. Built on the Celo blockchain, it operates through three pillars - Education, an Agent Network for cash-to-USDm conversion and wallet onboarding, and Reforestation - to expand financial inclusion and environmental resilience in communities that need it most. CeloHT maintains a strict No Token Policy, has no native token, and does not present its programs as investment opportunities. The Governance Council is the highest ongoing collective decision-making body, while technical, operational, partnership, and representative responsibilities remain within their documented scopes.
 
 ---
 
@@ -143,7 +143,7 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 | Native Token | None (see No Token Policy) |
 | Supported Wallets | Valora, MiniPay, and WalletConnect |
 | License | Apache 2.0 for docs/source in this repository; trademark rules apply to CeloHT marks |
-| Governance Model | Foundation Director → Maintainer Council → Community Contributors |
+| Governance Model | Governance Council as the highest ongoing collective decision-making body; Maintainers, Working Groups, and Contributors have scoped responsibilities |
 | Core Pillars | Education, Agent Network, Reforestation |
 | Current Roadmap Phase | NOT VERIFIED in this repository |
 | Website | celoht.com |
@@ -182,7 +182,7 @@ TBD. Impact figures (participants reached, agents onboarded, wallets created, tr
 | Documentation pages published | NOT VERIFIED |
 | Roadmap phases | 4 |
 | Core pillars | 3 |
-| Governance tiers | 3 |
+| Governance bodies | Governance Council plus scoped Maintainer, Working Group, and Contributor roles |
 | Countries of operation | 1 (Haiti); expansion plans TBD |
 | Community contributors | TBD |
 | Agent Network size | TBD |
@@ -265,7 +265,7 @@ CeloHT's visual identity spans its website, documentation, and community materia
 | Universities | CeloHT offers blockchain and digital-literacy curriculum resources suitable for educational partnership. |
 | NGOs | CeloHT's Agent Network and reforestation programs are structured for local, community-based implementation. |
 | Developers | CeloHT's full technology stack, documentation, and governance process are open on GitHub under Apache 2.0. |
-| Community Members | Governance is shared: Foundation Director, Maintainer Council, and Community Contributors all have defined roles. |
+| Community Members | The Governance Council is the highest ongoing collective decision-making body; Maintainers, Working Groups, and Contributors have defined scopes. |
 
 **Do-not-say list (consistent with No Token Policy):**
 - Do not describe CeloHT as an investment opportunity.
@@ -279,7 +279,7 @@ CeloHT's visual identity spans its website, documentation, and community materia
 **Name:** Johnny Dubic
 **Role:** Johnny Dubic — Permanently Recognized Founder of CeloHT
 
-Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. CeloHT was founded by Johnny Dubic in Léogâne, Haiti, with the goal of building a community-governed initiative for financial inclusion, blockchain education, and environmental sustainability. Under the project's governance model, founder authority is intentionally limited: CeloHT is structured to be governed by its Foundation Director, Maintainer Council, and Community Contributors rather than controlled solely by its founder. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control.
+Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. CeloHT was founded by Johnny Dubic in Léogâne, Haiti, with the goal of building a community-governed initiative for financial inclusion, blockchain education, and environmental sustainability. CeloHT's Governance Council is its highest ongoing collective decision-making body. Permanent founder recognition is historical and institutional; it does not confer governance authority, ownership rights, veto power, or unilateral control.
 
 Extended biography, professional background, and photography: TBD.
 
@@ -290,22 +290,34 @@ Extended biography, professional background, and photography: TBD.
 | Role | Name | Notes |
 |---|---|---|
 | Founder | Johnny Dubic | See [Founder Biography](#founder-biography) |
-| Foundation Director | TBD | Top tier of governance structure |
-| Maintainer Council | TBD | Reviews and approves community contributions |
-| Community Contributors | Open / rotating | See [Governance](#governance) |
+| Foundation Director | TBD | Founding, representative, strategic, or operational responsibilities within the governance framework; not above the Governance Council |
+| Maintainers | TBD | Technical and project stewardship within documented scope |
+| Working Groups | Scoped / as documented | Delegated or scoped work within documented mandates |
+| Contributors | Open / rotating | Participation through the contribution and governance framework |
 
 ---
 
 ## Governance
 
-CeloHT is explicitly community-governed, not founder-controlled. Governance follows a three-tier structure:
+CeloHT is explicitly community-governed, not founder-controlled. The **Governance
+Council is CeloHT's highest ongoing collective decision-making body**.
 
-1. **Foundation Director** - sets overall direction and stewardship of the initiative.
-2. **Maintainer Council** - reviews, approves, and coordinates technical and programmatic contributions.
-3. **Community Contributors** - the open base of participants who propose, build, and support CeloHT's programs and repositories.
+- **Governance Council:** Holds the highest ongoing collective decision-making
+	authority for CeloHT's governance.
+- **Founder:** Founder status is historical and institutional; it does not confer
+	governance authority, ownership rights, veto power, or unilateral control.
+- **Foundation Director:** Founding, representative, strategic, or operational
+	responsibilities operate within the governance framework and do not place the
+	role above or allow it to override the Governance Council.
+- **Maintainers:** Provide technical and project stewardship within their documented
+	scope; maintenance responsibility is not governance authority.
+- **Working Groups:** Carry out delegated or scoped work within documented mandates.
+- **Contributors:** Propose, build, review, and support CeloHT work according to the
+	contribution and governance framework.
 
-Operational governance procedures and eligibility criteria are NOT VERIFIED in this
-repository. BRAND_GUIDE.md documents the intended community-governed principle only.
+Operational, technical, partnership, and representation responsibilities must not be
+presented as governance authority. See [GOVERNANCE.md](../../GOVERNANCE.md), the
+canonical role-boundary reference.
 
 ---
 
@@ -345,7 +357,7 @@ CeloHT is built on the Celo blockchain, using the USDm stablecoin and CELO asset
 CeloHT supports Valora, MiniPay, and WalletConnect. Valora is recommended for users seeking a full-featured Celo wallet experience, while MiniPay provides an integrated mobile wallet experience and WalletConnect enables compatible wallets to connect to the CeloHT dApp.
 
 **Who governs CeloHT?**
-Governance flows through a Foundation Director, a Maintainer Council, and Community Contributors. CeloHT is community-governed, not founder-controlled.
+CeloHT's Governance Council is its highest ongoing collective decision-making body. Maintainers, Working Groups, Contributors, and any Foundation Director have scoped responsibilities within that framework; CeloHT is community-governed, not founder-controlled.
 
 **Is the Reforestation program active?**
 The Reforestation program is currently in its design and pilot phase and is not yet fully operational.
@@ -406,7 +418,7 @@ Product screenshots and photography: TBD.
 
 ## Interview Requests
 
-Media professionals seeking interviews with CeloHT leadership should contact contact@celoht.com with the following information: outlet name, topic focus, preferred format (written, audio, video), and desired timeframe. Requests are reviewed by the Foundation Director in coordination with the relevant program leads. Detailed interview guidelines are provided in PRESS_KIT.md.
+Media professionals seeking interviews with CeloHT leadership should contact contact@celoht.com with the following information: outlet name, topic focus, preferred format (written, audio, video), and desired timeframe. Requests are coordinated with the relevant program leads and designated representatives within CeloHT's operational framework. Detailed interview guidelines are provided in PRESS_KIT.md.
 
 ---
 

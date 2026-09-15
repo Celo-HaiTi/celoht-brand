@@ -98,7 +98,7 @@ Media Contact
 | Wallet support | CeloHT supports Valora, MiniPay, and WalletConnect. |
 | License | Apache 2.0 for docs/source in this repository; trademark rules apply to CeloHT marks |
 | Core pillars | Education, Agent Network, Reforestation |
-| Governance | Foundation Director → Maintainer Council → Community Contributors |
+| Governance | Governance Council is the highest ongoing collective decision-making body; other roles have documented scopes |
 | Current roadmap phase | Phase 1: Foundation (2026 Q2–Q3) - completed |
 | Website | celoht.com |
 | GitHub | github.com/Celo-HaiTi/celoht-brand |
@@ -114,7 +114,7 @@ For the full statistics table and community impact figures, see MEDIA_KIT.md, St
 CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti, focused on financial inclusion, blockchain education, and environmental sustainability. Built on the Celo blockchain, CeloHT operates without a native token and is governed through a transparent, community-led structure. Learn more at celoht.com.
 
 **Extended:**
-CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti, built on the Celo blockchain. Its work is organized around three pillars: Education, an Agent Network enabling cash-to-USDm conversion and wallet onboarding, and a Reforestation program currently in its pilot phase. CeloHT maintains a strict No Token Policy; it has no native token and does not conduct token sales, presales, or staking, and is governed through a structure spanning a Foundation Director, a Maintainer Council, and Community Contributors. This repository is the public brand and documentation package for CeloHT; it is not the product implementation. Learn more at celoht.com or github.com/Celo-HaiTi.
+CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti, built on the Celo blockchain. Its work is organized around three pillars: Education, an Agent Network enabling cash-to-USDm conversion and wallet onboarding, and a Reforestation program currently in its pilot phase. CeloHT maintains a strict No Token Policy; it has no native token and does not conduct token sales, presales, or staking. CeloHT's Governance Council is its highest ongoing collective decision-making body, with Maintainers, Working Groups, Contributors, and representatives operating within documented scopes. This repository is the public brand and documentation package for CeloHT; it is not the product implementation. Learn more at celoht.com or github.com/Celo-HaiTi.
 
 ---
 
@@ -122,7 +122,7 @@ CeloHT is a community-governed Web3 initiative headquartered in Léogâne, Haiti
 
 **Johnny Dubic — Permanently Recognized Founder of CeloHT**
 
-Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. CeloHT was founded by Johnny Dubic in Léogâne, Haiti, to build a community-governed initiative addressing financial inclusion, blockchain education, and environmental sustainability. CeloHT's governance model intentionally limits founder authority, distributing decision-making across a Foundation Director, Maintainer Council, and Community Contributors. Permanent founder recognition is historical and institutional; it does not confer perpetual governance authority, ownership rights, veto power, or unilateral control.
+Johnny Dubic is permanently recognized as the Founder of CeloHT in the project's historical and institutional record. CeloHT was founded by Johnny Dubic in Léogâne, Haiti, to build a community-governed initiative addressing financial inclusion, blockchain education, and environmental sustainability. CeloHT's Governance Council is its highest ongoing collective decision-making body. Permanent founder recognition is historical and institutional; it does not confer governance authority, ownership rights, veto power, or unilateral control.
 
 Extended professional background and headshot: NOT VERIFIED. For brand context, see MEDIA_KIT.md.
 
@@ -133,8 +133,9 @@ Extended professional background and headshot: NOT VERIFIED. For brand context, 
 | Role | Name | Profile |
 |---|---|---|
 | Founder | Johnny Dubic | See above |
-| Foundation Director | NOT VERIFIED | No governance charter is present in this repository |
-| Maintainer Council | NOT VERIFIED | No governance charter is present in this repository |
+| Foundation Director | NOT VERIFIED | Founding, representative, strategic, or operational responsibilities within the governance framework |
+| Maintainers | NOT VERIFIED | Technical and project stewardship within documented scope |
+| Working Groups | NOT VERIFIED | Delegated or scoped work within documented mandates |
 
 ---
 
@@ -235,7 +236,7 @@ TBD. No official event photography is confirmed for publication at this time. Th
 
 - Direct interview requests to contact@celoht.com with outlet name, topic, format, and desired timeframe.
 - Specify whether the request concerns the Founder, a program lead, or a general organizational spokesperson.
-- Allow reasonable lead time; CeloHT is a community-governed organization and some responses may require Maintainer Council or Foundation Director input.
+- Allow reasonable lead time; CeloHT is community-governed and some responses may require input from relevant Maintainers, Working Groups, or designated representatives within their documented scopes.
 - Fact-check statistics and quotes with contact@celoht.com prior to publication.
 - Do not frame interview questions or coverage in terms of investment returns, token value, or speculation - CeloHT representatives will decline to answer questions framed this way, consistent with the No Token Policy.
 

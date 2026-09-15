@@ -2,6 +2,12 @@
 
 For NGOs, universities, government bodies, and organizations (e.g. FreClean) collaborating with CeloHT.
 
+Partnership and representation activities are carried out within CeloHT's governance
+and operational framework. Partnership responsibilities do not confer governance
+authority on a partner, representative, Founder, Foundation Director, or any other
+individual. CeloHT's Governance Council remains the highest ongoing collective
+decision-making body; see [GOVERNANCE.md](../../GOVERNANCE.md).
+
 ## Co-Branding Principles
 
 1. **Equal visual weight, clear separation.** Partner logos are placed alongside - never inside, merged with, or overlapping - the CeloHT logo.
